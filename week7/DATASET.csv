@@ -1,0 +1,1001 @@
+﻿cliente_id,fecha,tipo_servicio,plato,precio,calificacion,comentario,sentimiento_texto
+522,2025-08-11 17:00:00,delivery,Anticuchos,35.87,8,"Todo espectacular, excepto algunos detalles menores. El Anticuchos llegó frío y sin sabor.",negativo
+738,2025-06-17 21:00:00,delivery,Ceviche clásico,43.33,4,Excelente si lo que buscabas era Ceviche clásico con aire.,negativo
+741,2025-07-25 14:00:00,delivery,Ají de gallina,39.79,7,"Espectacular,  excepto  el  Ají  de  gallina,  la  cuenta  y  la  espera.",positivo
+661,2025-07-17 17:00:00,para llevar,Ceviche clásico,47.75,5,Lo esperado para el precio; Ceviche clásico.,neutro
+412,2025-08-17 12:00:00,delivery,Causa limeña,32.52,9,Superó  mis  expectativas;  el  Causa  limeña  estuvo  increíble.,positivo
+679,2025-07-09 09:00:00,en sala,Pollo saltado,39.9,2,Nada rescatable del Pollo saltado.,negativo
+627,2025-06-12 10:00:00,en sala,Seco de res,39.75,9,Muy buen sabor y porción justa. Seco de res recomendado.,positivo
+514,2025-06-02 20:00:00,delivery,Ceviche clásico,50.12,7,"Calidad  constante,  precio  razonable.  Ceviche  clásico  ok.",positivo
+860,2025-07-08 11:00:00,delivery,Tacu tacu con lomo,47.57,9,La sazón recuerda a casa; Tacu tacu con lomo de primera.,positivo
+137,2025-08-04 21:00:00,para llevar,Ceviche clásico,45.58,6,Ambiente  agradable  y  Ceviche  clásico  delicioso.,positivo
+812,2025-07-18 16:00:00,delivery,Anticuchos,29.61,6,"Aceptable,  pero  nada  memorable.  Probé  el  Anticuchos.",neutro
+77,2025-07-23 14:00:00,en sala,Sudado de pescado,43.46,7,Regular; el Sudado de pescado podría tener más sazón.,neutro
+637,2025-07-03 17:00:00,para llevar,Tallarines verdes,30.65,7,Ni bien ni mal; Tallarines verdes promedio.,neutro
+974,2025-06-18 12:00:00,en sala,Causa limeña,30.31,10,"Sabor intenso, cocción precisa; Causa limeña bien logrado.",positivo
+939,2025-06-08 17:00:00,en sala,Chicharrón de calamar,44.03,1,Pensé que sería mejor. Por fin aprendieron a servir caliente. Chicharrón de calamar.,neutro
+900,2025-08-26 22:00:00,en sala,Chicharrón de calamar,38.3,8,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+281,2025-07-28 16:00:00,delivery,Chicharrón de calamar,43.54,4,Todo perfecto… salvo detalles menores como el Chicharrón de calamar crudo.,positivo
+884,2025-07-04 22:00:00,en sala,Tallarines verdes,33.78,8,"Me sorprendió para bien. Una experiencia, definitivamente Tallarines verdes.",neutro
+762,2025-06-21 14:00:00,delivery,Parihuela,51.06,9,Muy buen sabor y porción justa. Parihuela recomendado.,positivo
+320,2025-06-15 11:00:00,para llevar,Ceviche clásico,42.97,4,Por fin aprendieron a servir caliente. Ceviche clásico.,positivo
+550,2025-07-08 16:00:00,para llevar,Sudado de pescado,45.46,2,Mal empaque; el Sudado de pescado llegó deshecho.,negativo
+175,2025-07-09 16:00:00,delivery,Pollo saltado,35.88,6,Precio justo por lo que ofrecen; Pollo saltado ok.,neutro
+372,2025-06-08 16:00:00,delivery,Anticuchos,35.54,2,Mala experiencia: Anticuchos salado y arroz duro.,negativo
+528,2025-07-23 10:00:00,para llevar,Ají de gallina,40.67,3,Excelente si lo que buscabas era Ají de gallina con aire.,positivo
+211,2025-06-12 19:00:00,para llevar,Arroz chaufa,29.28,3,Nada rescatable del Arroz chaufa.,negativo
+236,2025-07-15 10:00:00,en sala,Arroz con mariscos,39.66,8,"Espectacular, excepto el Arroz con mariscos, la cuenta y la espera.",positivo
+102,2025-08-12 19:00:00,delivery,Chicharrón de calamar,38.13,6,De los mejores Chicharrón de calamar que he probado.,positivo
+987,2025-07-18 21:00:00,para llevar,Sudado de pescado,47.28,5,Ni  bien  ni  mal;  Sudado  de  pescado  promedio.,neutro
+903,2025-06-13 16:00:00,en sala,Ceviche mixto,44.7,3,Todo perfecto… salvo detalles menores como el Ceviche mixto crudo.,positivo
+948,2025-06-27 17:00:00,en sala,Tallarines verdes,32.53,8,Todo perfecto; volvería sin dudar. El Tallarines verdes brilló.,positivo
+347,2025-06-22 09:00:00,delivery,Tallarines verdes,36.47,8,Todo perfecto; volvería sin dudar. El Tallarines verdes brilló.,positivo
+140,2025-06-06 14:00:00,en sala,Chicharrón de calamar,43.32,6,"Está bien, pero hay opciones mejores; Chicharrón de calamar.",neutro
+622,2025-07-18 17:00:00,en sala,Tacu tacu con lomo,52.84,7,Regular; el Tacu tacu con lomo podría tener más sazón.,neutro
+500,2025-08-05 20:00:00,para llevar,Anticuchos,35.6,9,Muy buen sabor y porción justa. Anticuchos recomendado.,positivo
+371,2025-08-07 10:00:00,en sala,Chicharrón de calamar,38.64,6,"Excelente atención, el Chicharrón de calamar estaba en su punto.",positivo
+199,2025-08-01 17:00:00,en sala,Causa limeña,31.31,8,Servicio rápido y amable. Causa limeña impecable.,positivo
+688,2025-06-17 20:00:00,en sala,Lomo saltado,42.94,2,Por fin aprendieron a servir caliente. Lomo saltado.,positivo
+585,2025-08-22 18:00:00,delivery,Chicharrón de calamar,43.6,5,"El Chicharrón de calamar llegó a tiempo, sabor estándar.",neutro
+902,2025-08-23 11:00:00,en sala,Pollo saltado,37.14,5,"Espectacular, excepto el Pollo saltado, la cuenta y la espera.",positivo
+60,2025-06-25 10:00:00,delivery,Causa limeña,32.42,5,Por fin aprendieron a servir caliente. Causa limeña.,neutro
+329,2025-07-27 17:00:00,para llevar,Seco de res,39.87,4,Por fin aprendieron a servir caliente. Seco de res.,negativo
+97,2025-08-15 15:00:00,para llevar,Parihuela,41.47,7,Por fin aprendieron a servir caliente. Parihuela.,positivo
+313,2025-06-24 11:00:00,para llevar,Tacu tacu con lomo,46.16,5,Lo esperado para el precio; Tacu tacu con lomo.,neutro
+975,2025-07-09 22:00:00,en sala,Seco de res,40.85,6,Experiencia neutral; Seco de res sin sorpresas.,neutro
+300,2025-06-20 20:00:00,delivery,Ceviche mixto,48.19,6,Por fin aprendieron a servir caliente. Ceviche mixto.,neutro
+278,2025-08-26 17:00:00,en sala,Sudado de pescado,46.74,7,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+925,2025-07-06 11:00:00,delivery,Tallarines verdes,35.14,6,Precio  justo  por  lo  que  ofrecen;  Tallarines  verdes  ok.,neutro
+602,2025-08-01 16:00:00,en sala,Tacu tacu con lomo,41.39,7,La sazón recuerda a casa; Tacu tacu con lomo de primera.,positivo
+440,2025-08-09 15:00:00,en sala,Ceviche mixto,46.61,7,Por  fin  aprendieron  a  servir  caliente.  Ceviche  mixto.,positivo
+838,2025-07-22 10:00:00,delivery,Ají de gallina,37.91,7,Me sorprendió para bien. Regular; el Ají de gallina podría tener más sazón.,neutro
+571,2025-06-12 13:00:00,para llevar,Ceviche clásico,39.09,10,Superó mis expectativas; el Ceviche clásico estuvo increíble.,positivo
+880,2025-07-19 19:00:00,para llevar,Ceviche clásico,43.13,8,Por  fin  aprendieron  a  servir  caliente.  Ceviche  clásico.,positivo
+262,2025-07-16 11:00:00,delivery,Anticuchos,26.84,3,Por fin aprendieron a servir caliente. Anticuchos.,neutro
+579,2025-08-14 16:00:00,para llevar,Causa limeña,31.49,10,Todo  perfecto;  volvería  sin  dudar.  El  Causa  limeña  brilló.,positivo
+24,2025-07-19 16:00:00,para llevar,Pollo saltado,39.37,6,La sazón recuerda a casa; Pollo saltado de primera.,positivo
+31,2025-07-19 14:00:00,para llevar,Ceviche clásico,41.37,6,Ni bien ni mal; Ceviche clásico promedio.,neutro
+618,2025-08-30 20:00:00,para llevar,Parihuela,48.77,4,"El Parihuela estuvo genial, dicen.",negativo
+11,2025-07-23 14:00:00,para llevar,Seco de res,42.18,9,"Sabor intenso, cocción precisa; Seco de res bien logrado.",positivo
+222,2025-08-27 17:00:00,en sala,Lomo saltado,41.81,2,Todo perfecto… salvo detalles menores como el Lomo saltado crudo.,positivo
+821,2025-08-19 17:00:00,en sala,Tallarines verdes,36.8,5,Servicio correcto; el Tallarines verdes normal.,neutro
+297,2025-06-26 18:00:00,delivery,Seco de res,40.59,8,"Calidad constante, precio razonable. Seco de res ok.",positivo
+55,2025-08-03 10:00:00,para llevar,Tacu tacu con lomo,49.36,2,"Espectacular, excepto el Tacu tacu con lomo, la cuenta y la espera.",positivo
+543,2025-06-21 13:00:00,en sala,Lomo saltado,38.08,3,"Espectacular, excepto el Lomo saltado, la cuenta y la espera.",positivo
+210,2025-07-31 16:00:00,para llevar,Parihuela,51.11,9,Muy buen sabor y porción justa. Parihuela recomendado.,positivo
+605,2025-07-22 18:00:00,en sala,Ceviche mixto,48.59,6,Superó mis expectativas; el Ceviche mixto estuvo increíble.,positivo
+693,2025-07-27 12:00:00,delivery,Seco de res,34.88,3,"Una experiencia, definitivamente Seco de res.",positivo
+663,2025-08-08 11:00:00,para llevar,Sudado de pescado,45.43,9,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+867,2025-06-20 22:00:00,en sala,Ají de gallina,38.24,8,Todo perfecto; volvería sin dudar. El Ají de gallina brilló.,positivo
+71,2025-08-16 17:00:00,para llevar,Ceviche mixto,47.95,4,Nada mal: solo 40 minutos para el Ceviche mixto.,positivo
+544,2025-07-08 12:00:00,para llevar,Tallarines verdes,30.7,10,Muy buen sabor y porción justa. Tallarines verdes recomendado.,positivo
+108,2025-07-28 10:00:00,delivery,Sudado de pescado,44.98,5,Lo esperado para el precio; Sudado de pescado.,neutro
+494,2025-06-03 18:00:00,en sala,Arroz chaufa,33.15,6,Por fin aprendieron a servir caliente. Arroz chaufa.,positivo
+591,2025-08-18 19:00:00,delivery,Causa limeña,25.04,5,"Aceptable, pero nada memorable. Probé el Causa limeña.",neutro
+742,2025-07-10 11:00:00,delivery,Arroz chaufa,32.36,7,La sazón recuerda a casa; Arroz chaufa de primera.,positivo
+293,2025-07-13 16:00:00,en sala,Tacu tacu con lomo,48.42,3,Ni bien ni mal; Tacu tacu con lomo promedio.,neutro
+290,2025-06-22 15:00:00,en sala,Tallarines verdes,38.33,7,"El Tallarines verdes llegó a tiempo, sabor estándar.",neutro
+653,2025-07-17 11:00:00,delivery,Arroz chaufa,27.77,5,Atención lenta y Arroz chaufa regular tirando a mal.,negativo
+40,2025-08-01 10:00:00,delivery,Pollo saltado,38.26,9,Superó mis expectativas; el Pollo saltado estuvo increíble.,positivo
+590,2025-06-12 15:00:00,en sala,Parihuela,50.23,8,"Todo espectacular, excepto algunos detalles menores. Nada rescatable del Parihuela.",negativo
+308,2025-06-15 22:00:00,delivery,Ceviche clásico,37.37,6,"El Ceviche clásico llegó a tiempo, sabor estándar.",neutro
+680,2025-07-31 17:00:00,en sala,Causa limeña,27.19,5,"Una experiencia, definitivamente Causa limeña.",neutro
+67,2025-08-05 18:00:00,en sala,Anticuchos,31.19,8,Todo perfecto; volvería sin dudar. El Anticuchos brilló.,positivo
+276,2025-06-03 12:00:00,para llevar,Arroz con mariscos,40.52,7,"Excelente atención, el Arroz con mariscos estaba en su punto.",positivo
+68,2025-08-24 17:00:00,en sala,Pollo saltado,35.29,8,Ambiente agradable y Pollo saltado delicioso.,positivo
+319,2025-07-09 18:00:00,delivery,Sudado de pescado,48.09,10,Muy buen sabor y porción justa. Sudado de pescado recomendado.,positivo
+549,2025-08-15 17:00:00,en sala,Parihuela,50.7,8,Por fin aprendieron a servir caliente. Parihuela.,neutro
+999,2025-08-04 21:00:00,para llevar,Tallarines verdes,29.34,8,De los mejores Tallarines verdes que he probado.,positivo
+715,2025-07-24 22:00:00,para llevar,Lomo saltado,44.56,10,La sazón recuerda a casa; Lomo saltado de primera.,positivo
+754,2025-06-03 14:00:00,para llevar,Tallarines verdes,35.2,5,Ni bien ni mal; Tallarines verdes promedio.,neutro
+328,2025-06-15 13:00:00,para llevar,Chicharrón de calamar,38.39,10,"Sabor intenso, cocción precisa; Chicharrón de calamar bien logrado.",positivo
+383,2025-07-10 10:00:00,delivery,Lomo saltado,39.87,7,"Espectacular, excepto el Lomo saltado, la cuenta y la espera.",positivo
+452,2025-06-05 15:00:00,delivery,Ceviche mixto,47.22,9,De los mejores Ceviche mixto que he probado.,positivo
+523,2025-08-21 13:00:00,en sala,Seco de res,46.02,4,Mala experiencia: Seco de res salado y arroz duro.,negativo
+219,2025-06-24 11:00:00,delivery,Causa limeña,28.94,8,"Todo espectacular, excepto algunos detalles menores. Espectacular, excepto el Causa limeña, la cuenta y la espera.",negativo
+788,2025-07-01 12:00:00,delivery,Seco de res,38.62,8,"Sabor  intenso,  cocción  precisa;  Seco  de  res  bien  logrado.",positivo
+437,2025-07-04 10:00:00,en sala,Tallarines verdes,27.03,8,"Calidad constante, precio razonable. Tallarines verdes ok.",positivo
+765,2025-07-06 11:00:00,delivery,Pollo saltado,41.4,8,Por fin aprendieron a servir caliente. Pollo saltado.,positivo
+89,2025-06-15 13:00:00,delivery,Arroz chaufa,26.33,5,"Una experiencia, definitivamente Arroz chaufa.",neutro
+64,2025-06-23 10:00:00,delivery,Seco de res,43.38,9,Muy buen sabor y porción justa. Seco de res recomendado.,positivo
+827,2025-07-30 18:00:00,en sala,Anticuchos,32.77,8,"Espectacular,  excepto  el  Anticuchos,  la  cuenta  y  la  espera.",positivo
+717,2025-08-08 15:00:00,delivery,Ceviche clásico,44.34,4,Precio  justo  por  lo  que  ofrecen;  Ceviche  clásico  ok.,neutro
+352,2025-07-19 21:00:00,en sala,Ceviche clásico,42.14,4,Ni bien ni mal; Ceviche clásico promedio.,neutro
+937,2025-06-05 13:00:00,para llevar,Lomo saltado,44.11,3,Pensé que sería mejor. Por fin aprendieron a servir caliente. Lomo saltado.,neutro
+257,2025-07-31 21:00:00,para llevar,Parihuela,47.54,6,"Sabor intenso, cocción precisa; Parihuela bien logrado.",positivo
+636,2025-08-11 10:00:00,para llevar,Lomo saltado,39.17,7,"El Lomo saltado llegó a tiempo, sabor estándar.",neutro
+645,2025-07-02 22:00:00,para llevar,Arroz chaufa,29.62,7,"El Arroz chaufa llegó a tiempo, sabor estándar.",neutro
+555,2025-08-07 12:00:00,delivery,Chicharrón de calamar,38.67,9,De  los  mejores  Chicharrón  de  calamar  que  he  probado.,positivo
+960,2025-06-19 16:00:00,delivery,Ceviche clásico,49.43,3,El Ceviche clásico llegó frío y sin sabor.,negativo
+169,2025-08-30 12:00:00,en sala,Causa limeña,28.06,7,Muy buen sabor y porción justa. Causa limeña recomendado.,positivo
+918,2025-08-18 21:00:00,para llevar,Ají de gallina,38.42,5,"El Ají de gallina llegó a tiempo, sabor estándar.",neutro
+529,2025-07-21 12:00:00,delivery,Sudado de pescado,46.67,10,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+824,2025-08-26 09:00:00,delivery,Causa limeña,28.96,5,"Espectacular, excepto el Causa limeña, la cuenta y la espera.",positivo
+986,2025-07-17 10:00:00,para llevar,Chicharrón de calamar,38.87,6,Superó mis expectativas; el Chicharrón de calamar estuvo increíble.,positivo
+817,2025-08-27 22:00:00,delivery,Anticuchos,23.98,3,Todo perfecto… salvo detalles menores como el Anticuchos crudo.,positivo
+87,2025-06-07 19:00:00,en sala,Parihuela,42.69,2,Demora excesiva; Parihuela pasado de cocción.,negativo
+433,2025-07-04 19:00:00,delivery,Anticuchos,30.11,2,"El Anticuchos estuvo genial, dicen.",negativo
+185,2025-08-12 17:00:00,delivery,Chicharrón de calamar,45.81,8,"Calidad constante, precio razonable. Chicharrón de calamar ok.",positivo
+979,2025-06-09 18:00:00,para llevar,Arroz chaufa,30.99,2,Todo perfecto… salvo detalles menores como el Arroz chaufa crudo.,positivo
+535,2025-07-06 15:00:00,delivery,Tacu tacu con lomo,49.29,8,De los mejores Tacu tacu con lomo que he probado.,positivo
+295,2025-07-11 13:00:00,para llevar,Arroz chaufa,29.98,7,"Sabor intenso, cocción precisa; Arroz chaufa bien logrado.",positivo
+893,2025-06-11 22:00:00,para llevar,Ceviche clásico,42.18,9,La sazón recuerda a casa; Ceviche clásico de primera.,positivo
+426,2025-07-24 11:00:00,delivery,Chicharrón de calamar,42.0,6,"Cumple,  aunque  podría  mejorar  la  presentación  del  Chicharrón  de  calamar.",neutro
+714,2025-06-11 16:00:00,para llevar,Anticuchos,30.46,3,"Pensé que sería mejor. Cumple, aunque podría mejorar la presentación del Anticuchos.",neutro
+261,2025-07-03 21:00:00,en sala,Pollo saltado,34.94,3,Regular; el Pollo saltado podría tener más sazón.,neutro
+238,2025-08-09 15:00:00,en sala,Chicharrón de calamar,41.73,5,"Aceptable, pero nada memorable. Probé el Chicharrón de calamar.",neutro
+560,2025-06-15 15:00:00,para llevar,Arroz chaufa,27.59,8,"Excelente atención, el Arroz chaufa estaba en su punto.",positivo
+584,2025-07-30 16:00:00,delivery,Seco de res,35.47,2,Nada mal: solo 40 minutos para el Seco de res.,positivo
+446,2025-06-09 10:00:00,para llevar,Ceviche mixto,56.87,6,"Está bien, pero hay opciones mejores; Ceviche mixto.",neutro
+868,2025-07-27 20:00:00,delivery,Chicharrón de calamar,46.2,9,"Calidad constante, precio razonable. Chicharrón de calamar ok.",positivo
+801,2025-06-27 21:00:00,en sala,Ceviche clásico,40.52,5,El Ceviche clásico llegó frío y sin sabor.,negativo
+600,2025-08-05 19:00:00,para llevar,Parihuela,47.72,5,Servicio correcto; el Parihuela normal.,neutro
+850,2025-06-18 10:00:00,en sala,Arroz con mariscos,40.88,4,"El Arroz con mariscos estuvo genial, dicen.",positivo
+266,2025-08-18 16:00:00,en sala,Arroz chaufa,28.17,5,Increíble  cómo  el  Arroz  chaufa  te  hace  dudar  si  fue  suerte  o  descuido.,negativo
+996,2025-08-15 09:00:00,delivery,Chicharrón de calamar,42.94,5,Por  fin  aprendieron  a  servir  caliente.  Chicharrón  de  calamar.,positivo
+530,2025-07-24 09:00:00,delivery,Seco de res,42.72,4,Mal empaque; el Seco de res llegó deshecho.,negativo
+56,2025-08-29 17:00:00,en sala,Arroz chaufa,34.67,7,Me sorprendió para bien. Regular; el Arroz chaufa podría tener más sazón.,neutro
+121,2025-07-27 18:00:00,en sala,Anticuchos,34.18,7,Me sorprendió para bien. Lo esperado para el precio; Anticuchos.,neutro
+216,2025-06-21 20:00:00,para llevar,Pollo saltado,40.31,3,Atención lenta y Pollo saltado regular tirando a mal.,negativo
+26,2025-07-19 15:00:00,delivery,Lomo saltado,36.74,9,La sazón recuerda a casa; Lomo saltado de primera.,positivo
+73,2025-07-23 14:00:00,para llevar,Anticuchos,33.46,9,Servicio rápido y amable. Anticuchos impecable.,positivo
+45,2025-07-10 21:00:00,en sala,Arroz con mariscos,36.56,8,Todo perfecto; volvería sin dudar. El Arroz con mariscos brilló.,positivo
+248,2025-07-31 12:00:00,delivery,Ceviche mixto,47.77,8,Superó mis expectativas; el Ceviche mixto estuvo increíble.,positivo
+722,2025-07-12 22:00:00,delivery,Parihuela,51.34,7,La sazón recuerda a casa; Parihuela de primera.,positivo
+282,2025-08-27 18:00:00,en sala,Ají de gallina,39.97,3,Regular; el Ají de gallina podría tener más sazón.,neutro
+894,2025-06-06 15:00:00,delivery,Chicharrón de calamar,34.77,5,Nada rescatable del Chicharrón de calamar.,negativo
+915,2025-08-04 12:00:00,en sala,Sudado de pescado,49.29,4,Por fin aprendieron a servir caliente. Sudado de pescado.,negativo
+811,2025-07-10 20:00:00,en sala,Sudado de pescado,44.13,6,"Está bien, pero hay opciones mejores; Sudado de pescado.",neutro
+245,2025-08-11 18:00:00,para llevar,Causa limeña,28.98,7,Servicio rápido y amable. Causa limeña impecable.,positivo
+823,2025-07-10 18:00:00,para llevar,Chicharrón de calamar,39.41,5,"El Chicharrón de calamar llegó a tiempo, sabor estándar.",neutro
+322,2025-08-22 11:00:00,delivery,Tacu tacu con lomo,47.5,3,El Tacu tacu con lomo parecía del día anterior.,negativo
+644,2025-06-26 12:00:00,en sala,Anticuchos,33.4,6,Por fin aprendieron a servir caliente. Anticuchos.,neutro
+159,2025-06-10 16:00:00,para llevar,Parihuela,49.31,5,Lo esperado para el precio; Parihuela.,neutro
+978,2025-08-02 20:00:00,en sala,Arroz con mariscos,41.19,7,Por fin aprendieron a servir caliente. Arroz con mariscos.,neutro
+430,2025-06-12 14:00:00,en sala,Parihuela,48.53,6,Experiencia  neutral;  Parihuela  sin  sorpresas.,neutro
+942,2025-08-14 22:00:00,delivery,Arroz chaufa,28.15,2,"El Arroz chaufa estuvo genial, dicen.",positivo
+463,2025-08-28 10:00:00,para llevar,Ají de gallina,30.09,5,Ni bien ni mal; Ají de gallina promedio.,neutro
+310,2025-07-09 09:00:00,delivery,Ají de gallina,38.48,3,"El Ají de gallina estuvo genial, dicen.",positivo
+698,2025-08-14 10:00:00,en sala,Arroz chaufa,34.78,8,"Espectacular,  excepto  el  Arroz  chaufa,  la  cuenta  y  la  espera.",positivo
+61,2025-06-03 09:00:00,delivery,Ceviche clásico,48.73,7,Por fin aprendieron a servir caliente. Ceviche clásico.,neutro
+885,2025-07-21 11:00:00,delivery,Ceviche mixto,50.49,2,Pensé que sería mejor. Lo esperado para el precio; Ceviche mixto.,neutro
+596,2025-07-06 22:00:00,en sala,Arroz con mariscos,43.31,4,Pensé que sería mejor. Ni bien ni mal; Arroz con mariscos promedio.,neutro
+768,2025-08-04 22:00:00,en sala,Ají de gallina,36.4,9,Todo perfecto; volvería sin dudar. El Ají de gallina brilló.,positivo
+650,2025-06-23 16:00:00,en sala,Causa limeña,28.23,8,La sazón recuerda a casa; Causa limeña de primera.,positivo
+651,2025-06-02 19:00:00,en sala,Anticuchos,25.92,6,Ambiente agradable y Anticuchos delicioso.,positivo
+866,2025-08-07 22:00:00,en sala,Tallarines verdes,34.32,4,"Una experiencia, definitivamente Tallarines verdes.",neutro
+669,2025-06-03 11:00:00,para llevar,Causa limeña,24.92,2,Todo perfecto… salvo detalles menores como el Causa limeña crudo.,negativo
+299,2025-07-23 19:00:00,delivery,Chicharrón de calamar,45.6,8,Superó  mis  expectativas;  el  Chicharrón  de  calamar  estuvo  increíble.,positivo
+690,2025-07-18 16:00:00,delivery,Tacu tacu con lomo,48.86,7,Superó mis expectativas; el Tacu tacu con lomo estuvo increíble.,positivo
+315,2025-08-30 21:00:00,para llevar,Tacu tacu con lomo,49.9,5,"Una experiencia, definitivamente Tacu tacu con lomo.",positivo
+311,2025-08-26 21:00:00,para llevar,Ceviche clásico,47.78,6,"Aceptable, pero nada memorable. Probé el Ceviche clásico.",neutro
+362,2025-06-08 21:00:00,en sala,Lomo saltado,40.61,6,Todo perfecto… salvo detalles menores como el Lomo saltado crudo.,positivo
+480,2025-06-16 16:00:00,delivery,Ají de gallina,32.69,6,"El Ají de gallina llegó a tiempo, sabor estándar.",neutro
+111,2025-07-13 10:00:00,delivery,Tacu tacu con lomo,44.8,5,"Espectacular,  excepto  el  Tacu  tacu  con  lomo,  la  cuenta  y  la  espera.",negativo
+990,2025-06-15 15:00:00,para llevar,Seco de res,36.77,5,Regular; el Seco de res podría tener más sazón.,neutro
+487,2025-08-01 15:00:00,para llevar,Tacu tacu con lomo,46.73,8,"Espectacular, excepto el Tacu tacu con lomo, la cuenta y la espera.",positivo
+364,2025-06-20 13:00:00,para llevar,Tacu tacu con lomo,43.8,8,Todo perfecto; volvería sin dudar. El Tacu tacu con lomo brilló.,positivo
+255,2025-08-10 14:00:00,para llevar,Sudado de pescado,45.53,7,Por fin aprendieron a servir caliente. Sudado de pescado.,positivo
+260,2025-07-19 18:00:00,para llevar,Tacu tacu con lomo,48.21,8,Superó mis expectativas; el Tacu tacu con lomo estuvo increíble.,positivo
+803,2025-07-10 13:00:00,para llevar,Arroz chaufa,31.11,6,Excelente si lo que buscabas era Arroz chaufa con aire.,neutro
+678,2025-08-09 12:00:00,para llevar,Arroz con mariscos,38.96,8,Ambiente agradable y Arroz con mariscos delicioso.,positivo
+495,2025-06-05 15:00:00,para llevar,Ceviche mixto,44.03,9,Todo perfecto; volvería sin dudar. El Ceviche mixto brilló.,positivo
+671,2025-06-07 09:00:00,en sala,Tacu tacu con lomo,46.63,3,"Pensé que sería mejor. Cumple, aunque podría mejorar la presentación del Tacu tacu con lomo.",neutro
+378,2025-06-09 16:00:00,en sala,Chicharrón de calamar,43.08,6,Ambiente agradable y Chicharrón de calamar delicioso.,positivo
+527,2025-07-08 17:00:00,para llevar,Arroz chaufa,25.94,5,El Arroz chaufa llegó frío y sin sabor.,negativo
+846,2025-07-21 19:00:00,delivery,Seco de res,38.8,6,"Aceptable, pero nada memorable. Probé el Seco de res.",neutro
+138,2025-08-21 15:00:00,para llevar,Causa limeña,25.96,9,"Excelente atención, el Causa limeña estaba en su punto.",positivo
+356,2025-06-18 12:00:00,para llevar,Tacu tacu con lomo,46.8,6,La sazón recuerda a casa; Tacu tacu con lomo de primera.,positivo
+366,2025-07-01 09:00:00,delivery,Tacu tacu con lomo,48.24,3,Mala experiencia: Tacu tacu con lomo salado y arroz duro.,negativo
+943,2025-07-16 13:00:00,para llevar,Arroz chaufa,29.75,6,"Una experiencia, definitivamente Arroz chaufa.",neutro
+750,2025-07-05 19:00:00,delivery,Lomo saltado,39.3,6,Lo  esperado  para  el  precio;  Lomo  saltado.,neutro
+949,2025-06-17 16:00:00,para llevar,Lomo saltado,35.66,9,Superó mis expectativas; el Lomo saltado estuvo increíble.,positivo
+830,2025-08-25 14:00:00,para llevar,Tallarines verdes,30.59,4,Por fin aprendieron a servir caliente. Tallarines verdes.,negativo
+657,2025-07-31 21:00:00,delivery,Arroz chaufa,28.77,8,Muy buen sabor y porción justa. Arroz chaufa recomendado.,positivo
+200,2025-08-09 14:00:00,delivery,Ají de gallina,30.28,9,Muy buen sabor y porción justa. Ají de gallina recomendado.,positivo
+214,2025-06-14 14:00:00,para llevar,Seco de res,41.91,9,Superó  mis  expectativas;  el  Seco  de  res  estuvo  increíble.,positivo
+409,2025-06-23 11:00:00,en sala,Sudado de pescado,46.61,2,Excelente si lo que buscabas era Sudado de pescado con aire.,negativo
+333,2025-06-27 22:00:00,para llevar,Sudado de pescado,44.69,4,"Una experiencia, definitivamente Sudado de pescado.",negativo
+209,2025-06-18 09:00:00,en sala,Tacu tacu con lomo,51.01,7,Ni bien ni mal; Tacu tacu con lomo promedio.,neutro
+614,2025-06-06 20:00:00,en sala,Parihuela,44.87,4,"Una experiencia, definitivamente Parihuela.",negativo
+79,2025-08-24 16:00:00,delivery,Ají de gallina,32.93,8,Todo perfecto; volvería sin dudar. El Ají de gallina brilló.,positivo
+30,2025-08-28 15:00:00,en sala,Pollo saltado,38.96,6,"Una experiencia, definitivamente Pollo saltado.",neutro
+536,2025-08-17 20:00:00,delivery,Tallarines verdes,31.95,2,Todo perfecto… salvo detalles menores como el Tallarines verdes crudo.,negativo
+696,2025-06-16 13:00:00,para llevar,Anticuchos,38.35,4,"Aceptable, pero nada memorable. Probé el Anticuchos.",neutro
+558,2025-07-31 17:00:00,delivery,Tallarines verdes,27.51,4,Mal empaque; el Tallarines verdes llegó deshecho.,negativo
+837,2025-08-15 18:00:00,en sala,Anticuchos,28.36,9,Por fin aprendieron a servir caliente. Anticuchos.,positivo
+597,2025-08-23 15:00:00,para llevar,Tallarines verdes,30.02,6,"Está bien, pero hay opciones mejores; Tallarines verdes.",neutro
+166,2025-08-22 10:00:00,delivery,Chicharrón de calamar,42.45,5,Experiencia  neutral;  Chicharrón  de  calamar  sin  sorpresas.,neutro
+919,2025-06-23 11:00:00,delivery,Lomo saltado,41.07,9,Todo perfecto; volvería sin dudar. El Lomo saltado brilló.,positivo
+496,2025-08-24 10:00:00,para llevar,Tallarines verdes,35.4,4,"Una  experiencia,  definitivamente  Tallarines  verdes.",neutro
+825,2025-08-30 18:00:00,en sala,Tacu tacu con lomo,48.44,8,"Todo espectacular, excepto algunos detalles menores. Demora excesiva; Tacu tacu con lomo pasado de cocción.",negativo
+66,2025-07-24 17:00:00,delivery,Lomo saltado,40.45,2,El Lomo saltado parecía del día anterior.,negativo
+142,2025-07-29 09:00:00,para llevar,Ceviche mixto,41.98,8,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Ceviche mixto tan flojo.",negativo
+926,2025-07-14 12:00:00,en sala,Seco de res,38.53,7,"Sabor intenso, cocción precisa; Seco de res bien logrado.",positivo
+828,2025-08-27 19:00:00,en sala,Ceviche clásico,41.94,9,Por fin aprendieron a servir caliente. Ceviche clásico.,positivo
+656,2025-08-11 15:00:00,en sala,Seco de res,38.5,3,No volvería; Seco de res mediocre y atención deficiente.,negativo
+332,2025-08-28 14:00:00,en sala,Chicharrón de calamar,39.48,8,Servicio rápido y amable. Chicharrón de calamar impecable.,positivo
+665,2025-06-22 19:00:00,delivery,Sudado de pescado,47.74,5,"El Sudado de pescado llegó a tiempo, sabor estándar.",neutro
+250,2025-07-13 19:00:00,delivery,Causa limeña,22.07,5,"Una experiencia, definitivamente Causa limeña.",positivo
+908,2025-07-02 18:00:00,delivery,Ceviche mixto,46.85,6,Excelente si lo que buscabas era Ceviche mixto con aire.,neutro
+709,2025-07-20 12:00:00,delivery,Anticuchos,33.86,8,Todo perfecto; volvería sin dudar. El Anticuchos brilló.,positivo
+306,2025-07-18 15:00:00,para llevar,Causa limeña,30.73,4,"Está bien, pero hay opciones mejores; Causa limeña.",neutro
+735,2025-07-21 16:00:00,para llevar,Anticuchos,31.09,5,Precio justo por lo que ofrecen; Anticuchos ok.,neutro
+976,2025-06-04 21:00:00,para llevar,Tallarines verdes,34.72,10,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+50,2025-08-11 14:00:00,en sala,Seco de res,40.97,10,"Espectacular, excepto el Seco de res, la cuenta y la espera.",positivo
+897,2025-08-02 15:00:00,en sala,Arroz chaufa,29.49,5,"Aceptable, pero nada memorable. Probé el Arroz chaufa.",neutro
+3,2025-08-22 11:00:00,para llevar,Sudado de pescado,40.15,1,Mal empaque; el Sudado de pescado llegó deshecho.,negativo
+545,2025-08-26 20:00:00,para llevar,Lomo saltado,44.17,9,La sazón recuerda a casa; Lomo saltado de primera.,positivo
+351,2025-06-12 20:00:00,delivery,Anticuchos,35.04,3,Precio alto para un Anticuchos tan flojo.,negativo
+905,2025-08-26 15:00:00,para llevar,Arroz chaufa,28.05,9,Todo perfecto; volvería sin dudar. El Arroz chaufa brilló.,positivo
+537,2025-07-11 20:00:00,para llevar,Causa limeña,25.9,5,"El Causa limeña llegó a tiempo, sabor estándar.",neutro
+345,2025-08-28 11:00:00,en sala,Pollo saltado,34.43,1,Pensé que sería mejor. Lo esperado para el precio; Pollo saltado.,neutro
+995,2025-06-03 21:00:00,en sala,Tacu tacu con lomo,47.45,7,Por fin aprendieron a servir caliente. Tacu tacu con lomo.,positivo
+482,2025-07-09 15:00:00,en sala,Causa limeña,29.35,6,Todo perfecto; volvería sin dudar. El Causa limeña brilló.,positivo
+576,2025-07-23 19:00:00,en sala,Anticuchos,34.18,8,Por fin aprendieron a servir caliente. Anticuchos.,positivo
+34,2025-06-06 14:00:00,en sala,Pollo saltado,37.47,9,Muy buen sabor y porción justa. Pollo saltado recomendado.,positivo
+32,2025-08-20 19:00:00,para llevar,Anticuchos,31.53,4,Nada  mal:  solo  40  minutos  para  el  Anticuchos.,negativo
+232,2025-06-06 15:00:00,delivery,Seco de res,36.26,4,El Seco de res llegó frío y sin sabor.,negativo
+964,2025-06-29 16:00:00,en sala,Arroz con mariscos,37.08,6,"Todo  espectacular,  excepto  algunos  detalles  menores.  El  Arroz  con  mariscos  estuvo  genial,  dicen.",negativo
+193,2025-08-28 19:00:00,delivery,Sudado de pescado,43.43,10,Superó mis expectativas; el Sudado de pescado estuvo increíble.,positivo
+334,2025-08-16 17:00:00,en sala,Chicharrón de calamar,38.27,9,"Excelente atención, el Chicharrón de calamar estaba en su punto.",positivo
+4,2025-07-10 18:00:00,delivery,Seco de res,35.2,9,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Seco de res tan flojo.",negativo
+205,2025-06-11 14:00:00,delivery,Chicharrón de calamar,43.09,4,Precio alto para un Chicharrón de calamar tan flojo.,negativo
+515,2025-08-25 22:00:00,para llevar,Causa limeña,29.53,9,Por fin aprendieron a servir caliente. Causa limeña.,positivo
+800,2025-07-08 12:00:00,delivery,Chicharrón de calamar,41.74,6,Servicio correcto; el Chicharrón de calamar normal.,neutro
+307,2025-07-15 09:00:00,delivery,Chicharrón de calamar,42.8,8,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+110,2025-07-18 13:00:00,delivery,Pollo saltado,36.83,3,Regular; el Pollo saltado podría tener más sazón.,neutro
+431,2025-08-23 11:00:00,para llevar,Sudado de pescado,50.43,7,"Sabor intenso, cocción precisa; Sudado de pescado bien logrado.",positivo
+78,2025-07-07 18:00:00,para llevar,Chicharrón de calamar,36.13,3,"Una experiencia, definitivamente Chicharrón de calamar.",negativo
+85,2025-07-24 16:00:00,para llevar,Lomo saltado,40.98,6,Todo perfecto; volvería sin dudar. El Lomo saltado brilló.,positivo
+287,2025-08-16 18:00:00,para llevar,Tacu tacu con lomo,48.52,7,Nada mal: solo 40 minutos para el Tacu tacu con lomo.,positivo
+83,2025-07-15 09:00:00,en sala,Tallarines verdes,35.68,9,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+992,2025-08-06 21:00:00,delivery,Anticuchos,25.88,7,Me sorprendió para bien. Ni bien ni mal; Anticuchos promedio.,neutro
+790,2025-06-27 09:00:00,en sala,Arroz chaufa,27.74,3,"El Arroz chaufa estuvo genial, dicen.",negativo
+895,2025-08-20 20:00:00,para llevar,Arroz chaufa,31.81,3,"El Arroz chaufa llegó a tiempo, sabor estándar.",neutro
+399,2025-07-21 16:00:00,en sala,Pollo saltado,39.02,6,"Aceptable, pero nada memorable. Probé el Pollo saltado.",neutro
+324,2025-06-25 22:00:00,en sala,Seco de res,42.49,8,La sazón recuerda a casa; Seco de res de primera.,positivo
+520,2025-07-01 10:00:00,en sala,Causa limeña,28.3,9,Servicio rápido y amable. Causa limeña impecable.,positivo
+917,2025-06-06 09:00:00,en sala,Arroz con mariscos,36.29,8,"Sabor intenso, cocción precisa; Arroz con mariscos bien logrado.",positivo
+923,2025-06-19 12:00:00,en sala,Pollo saltado,40.76,6,"Está bien, pero hay opciones mejores; Pollo saltado.",neutro
+6,2025-08-03 16:00:00,delivery,Anticuchos,32.52,7,"Calidad constante, precio razonable. Anticuchos ok.",positivo
+732,2025-07-26 15:00:00,en sala,Chicharrón de calamar,38.04,5,"Aceptable, pero nada memorable. Probé el Chicharrón de calamar.",neutro
+466,2025-06-02 12:00:00,delivery,Parihuela,46.93,7,Muy buen sabor y porción justa. Parihuela recomendado.,positivo
+98,2025-06-29 14:00:00,para llevar,Ceviche clásico,41.11,5,Experiencia neutral; Ceviche clásico sin sorpresas.,neutro
+267,2025-07-06 17:00:00,para llevar,Pollo saltado,39.62,6,Increíble  cómo  el  Pollo  saltado  te  hace  dudar  si  fue  suerte  o  descuido.,positivo
+358,2025-06-25 20:00:00,para llevar,Lomo saltado,40.65,5,Nada rescatable del Lomo saltado.,negativo
+869,2025-06-07 19:00:00,para llevar,Ceviche mixto,45.62,7,Servicio rápido y amable. Ceviche mixto impecable.,positivo
+799,2025-08-20 16:00:00,para llevar,Ají de gallina,30.96,4,Servicio correcto; el Ají de gallina normal.,neutro
+381,2025-07-02 11:00:00,delivery,Chicharrón de calamar,42.59,1,Mal empaque; el Chicharrón de calamar llegó deshecho.,negativo
+632,2025-07-06 21:00:00,para llevar,Lomo saltado,45.27,10,La  sazón  recuerda  a  casa;  Lomo  saltado  de  primera.,positivo
+382,2025-08-28 09:00:00,en sala,Parihuela,47.01,5,Nada mal: solo 40 minutos para el Parihuela.,positivo
+491,2025-07-08 16:00:00,delivery,Ceviche mixto,46.57,5,"Cumple, aunque podría mejorar la presentación del Ceviche mixto.",neutro
+119,2025-08-19 11:00:00,para llevar,Parihuela,47.1,7,Nada mal: solo 40 minutos para el Parihuela.,positivo
+901,2025-06-05 20:00:00,para llevar,Ceviche mixto,44.93,5,Excelente si lo que buscabas era Ceviche mixto con aire.,neutro
+251,2025-06-25 09:00:00,en sala,Parihuela,50.94,8,"Sabor  intenso,  cocción  precisa;  Parihuela  bien  logrado.",positivo
+524,2025-07-14 14:00:00,para llevar,Causa limeña,27.82,8,Servicio rápido y amable. Causa limeña impecable.,positivo
+10,2025-08-14 15:00:00,para llevar,Arroz con mariscos,35.71,6,Lo esperado para el precio; Arroz con mariscos.,neutro
+197,2025-06-27 15:00:00,en sala,Pollo saltado,35.34,5,Ni bien ni mal; Pollo saltado promedio.,neutro
+604,2025-08-13 11:00:00,en sala,Sudado de pescado,48.85,7,"Todo espectacular, excepto algunos detalles menores. El Sudado de pescado parecía del día anterior.",negativo
+82,2025-07-05 09:00:00,para llevar,Arroz con mariscos,47.6,4,Pensé que sería mejor. Regular; el Arroz con mariscos podría tener más sazón.,neutro
+784,2025-07-13 18:00:00,en sala,Tacu tacu con lomo,42.93,6,Regular; el Tacu tacu con lomo podría tener más sazón.,neutro
+588,2025-06-05 17:00:00,para llevar,Sudado de pescado,44.45,8,"Calidad constante, precio razonable. Sudado de pescado ok.",positivo
+798,2025-08-07 18:00:00,para llevar,Tallarines verdes,31.48,10,"Calidad constante, precio razonable. Tallarines verdes ok.",positivo
+240,2025-06-03 12:00:00,para llevar,Chicharrón de calamar,47.64,5,Increíble cómo el Chicharrón de calamar te hace dudar si fue suerte o descuido.,positivo
+291,2025-07-02 20:00:00,delivery,Tacu tacu con lomo,48.01,5,"El  Tacu  tacu  con  lomo  llegó  a  tiempo,  sabor  estándar.",neutro
+212,2025-06-05 11:00:00,para llevar,Arroz chaufa,30.94,6,Regular; el Arroz chaufa podría tener más sazón.,neutro
+718,2025-06-23 17:00:00,en sala,Arroz chaufa,33.17,9,Ambiente agradable y Arroz chaufa delicioso.,positivo
+360,2025-07-11 11:00:00,delivery,Arroz con mariscos,43.05,1,"Pensé  que  sería  mejor.  Está  bien,  pero  hay  opciones  mejores;  Arroz  con  mariscos.",neutro
+450,2025-07-23 13:00:00,en sala,Chicharrón de calamar,43.36,4,"El Chicharrón de calamar llegó a tiempo, sabor estándar.",neutro
+228,2025-08-08 11:00:00,en sala,Seco de res,34.67,8,Ambiente agradable y Seco de res delicioso.,positivo
+951,2025-07-14 19:00:00,en sala,Seco de res,37.08,8,Ambiente agradable y Seco de res delicioso.,positivo
+947,2025-06-10 10:00:00,delivery,Ceviche clásico,47.58,8,Todo perfecto; volvería sin dudar. El Ceviche clásico brilló.,positivo
+797,2025-08-17 21:00:00,para llevar,Anticuchos,33.44,6,Por  fin  aprendieron  a  servir  caliente.  Anticuchos.,neutro
+502,2025-07-16 20:00:00,en sala,Chicharrón de calamar,38.66,5,"El Chicharrón de calamar llegó a tiempo, sabor estándar.",neutro
+465,2025-08-27 09:00:00,para llevar,Arroz chaufa,27.84,10,Superó mis expectativas; el Arroz chaufa estuvo increíble.,positivo
+363,2025-07-24 15:00:00,delivery,Causa limeña,23.17,7,Superó mis expectativas; el Causa limeña estuvo increíble.,positivo
+469,2025-08-05 19:00:00,para llevar,Seco de res,37.98,6,De los mejores Seco de res que he probado.,positivo
+936,2025-07-30 20:00:00,para llevar,Tacu tacu con lomo,51.25,7,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+429,2025-06-10 14:00:00,en sala,Tallarines verdes,31.23,5,"Aceptable, pero nada memorable. Probé el Tallarines verdes.",neutro
+8,2025-08-13 18:00:00,en sala,Ceviche clásico,44.81,6,Precio justo por lo que ofrecen; Ceviche clásico ok.,neutro
+156,2025-08-23 13:00:00,en sala,Sudado de pescado,43.14,8,Muy buen sabor y porción justa. Sudado de pescado recomendado.,positivo
+542,2025-06-02 17:00:00,para llevar,Anticuchos,32.5,10,Ambiente agradable y Anticuchos delicioso.,positivo
+441,2025-07-24 17:00:00,para llevar,Arroz chaufa,29.1,1,Increíble cómo el Arroz chaufa te hace dudar si fue suerte o descuido.,positivo
+483,2025-07-23 18:00:00,en sala,Seco de res,42.59,8,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Seco de res tan flojo.",negativo
+423,2025-07-01 14:00:00,para llevar,Ceviche clásico,43.35,7,"Todo espectacular, excepto algunos detalles menores. Nada mal: solo 40 minutos para el Ceviche clásico.",negativo
+779,2025-08-14 20:00:00,para llevar,Pollo saltado,38.37,7,Todo perfecto; volvería sin dudar. El Pollo saltado brilló.,positivo
+950,2025-06-03 22:00:00,delivery,Tacu tacu con lomo,45.15,3,Todo  perfecto…  salvo  detalles  menores  como  el  Tacu  tacu  con  lomo  crudo.,negativo
+335,2025-08-05 19:00:00,en sala,Ají de gallina,39.79,3,Nada rescatable del Ají de gallina.,negativo
+577,2025-07-03 12:00:00,para llevar,Ceviche mixto,46.98,3,El Ceviche mixto parecía del día anterior.,negativo
+935,2025-06-18 22:00:00,para llevar,Pollo saltado,35.94,8,De  los  mejores  Pollo  saltado  que  he  probado.,positivo
+568,2025-07-22 15:00:00,en sala,Parihuela,48.51,10,Superó mis expectativas; el Parihuela estuvo increíble.,positivo
+595,2025-07-29 09:00:00,para llevar,Parihuela,50.94,5,"Una experiencia, definitivamente Parihuela.",neutro
+531,2025-08-24 18:00:00,para llevar,Seco de res,39.97,1,No volvería; Seco de res mediocre y atención deficiente.,negativo
+582,2025-07-11 15:00:00,delivery,Anticuchos,33.06,6,De los mejores Anticuchos que he probado.,positivo
+708,2025-08-19 12:00:00,para llevar,Ceviche mixto,44.39,6,"Aceptable, pero nada memorable. Probé el Ceviche mixto.",neutro
+449,2025-06-14 18:00:00,para llevar,Sudado de pescado,43.62,9,De los mejores Sudado de pescado que he probado.,positivo
+454,2025-08-29 19:00:00,en sala,Ají de gallina,34.01,7,Superó mis expectativas; el Ají de gallina estuvo increíble.,positivo
+229,2025-08-14 16:00:00,en sala,Ají de gallina,38.0,4,Increíble cómo el Ají de gallina te hace dudar si fue suerte o descuido.,negativo
+353,2025-07-27 14:00:00,en sala,Arroz con mariscos,38.18,4,Pensé  que  sería  mejor.  Por  fin  aprendieron  a  servir  caliente.  Arroz  con  mariscos.,neutro
+729,2025-08-13 15:00:00,para llevar,Arroz chaufa,31.55,8,Servicio rápido y amable. Arroz chaufa impecable.,positivo
+213,2025-08-03 11:00:00,delivery,Parihuela,49.95,6,Servicio  correcto;  el  Parihuela  normal.,neutro
+80,2025-06-15 21:00:00,en sala,Seco de res,36.37,1,No volvería; Seco de res mediocre y atención deficiente.,negativo
+149,2025-07-28 18:00:00,delivery,Ceviche clásico,52.57,9,Todo perfecto; volvería sin dudar. El Ceviche clásico brilló.,positivo
+303,2025-07-16 11:00:00,para llevar,Parihuela,49.93,4,"Una experiencia, definitivamente Parihuela.",positivo
+629,2025-06-23 19:00:00,para llevar,Causa limeña,23.27,6,"El Causa limeña llegó a tiempo, sabor estándar.",neutro
+778,2025-06-19 16:00:00,en sala,Tacu tacu con lomo,46.49,3,Nada  rescatable  del  Tacu  tacu  con  lomo.,negativo
+507,2025-06-15 10:00:00,delivery,Ají de gallina,38.04,6,"Una experiencia, definitivamente Ají de gallina.",neutro
+343,2025-07-14 19:00:00,para llevar,Sudado de pescado,45.6,10,Muy buen sabor y porción justa. Sudado de pescado recomendado.,positivo
+486,2025-06-12 11:00:00,en sala,Sudado de pescado,46.12,9,Muy buen sabor y porción justa. Sudado de pescado recomendado.,positivo
+712,2025-07-20 19:00:00,en sala,Arroz chaufa,28.47,6,"Cumple,  aunque  podría  mejorar  la  presentación  del  Arroz  chaufa.",neutro
+134,2025-07-29 10:00:00,en sala,Lomo saltado,45.96,7,Servicio rápido y amable. Lomo saltado impecable.,positivo
+704,2025-08-02 12:00:00,en sala,Pollo saltado,38.1,3,Todo perfecto… salvo detalles menores como el Pollo saltado crudo.,negativo
+312,2025-06-21 14:00:00,en sala,Parihuela,48.83,5,Excelente si lo que buscabas era Parihuela con aire.,neutro
+723,2025-07-01 18:00:00,delivery,Tacu tacu con lomo,45.17,3,"Una experiencia, definitivamente Tacu tacu con lomo.",negativo
+630,2025-08-06 13:00:00,delivery,Pollo saltado,40.7,6,"Aceptable, pero nada memorable. Probé el Pollo saltado.",neutro
+1,2025-06-30 13:00:00,delivery,Pollo saltado,42.03,5,Excelente si lo que buscabas era Pollo saltado con aire.,neutro
+317,2025-08-07 19:00:00,en sala,Pollo saltado,42.55,4,"Cumple, aunque podría mejorar la presentación del Pollo saltado.",neutro
+707,2025-08-04 15:00:00,delivery,Causa limeña,27.85,9,La sazón recuerda a casa; Causa limeña de primera.,positivo
+548,2025-07-27 22:00:00,para llevar,Ají de gallina,30.12,4,Todo perfecto… salvo detalles menores como el Ají de gallina crudo.,positivo
+873,2025-08-21 14:00:00,para llevar,Ají de gallina,30.95,1,Increíble  cómo  el  Ají  de  gallina  te  hace  dudar  si  fue  suerte  o  descuido.,negativo
+533,2025-08-28 18:00:00,para llevar,Pollo saltado,37.04,5,Regular; el Pollo saltado podría tener más sazón.,neutro
+478,2025-06-24 19:00:00,en sala,Anticuchos,35.04,3,Atención lenta y Anticuchos regular tirando a mal.,negativo
+405,2025-07-12 15:00:00,para llevar,Chicharrón de calamar,41.05,3,Nada mal: solo 40 minutos para el Chicharrón de calamar.,negativo
+173,2025-08-13 15:00:00,para llevar,Lomo saltado,45.55,6,Todo perfecto… salvo detalles menores como el Lomo saltado crudo.,positivo
+126,2025-06-21 13:00:00,en sala,Anticuchos,36.54,9,Ambiente agradable y Anticuchos delicioso.,positivo
+395,2025-06-18 10:00:00,delivery,Causa limeña,25.8,8,Por  fin  aprendieron  a  servir  caliente.  Causa  limeña.,positivo
+421,2025-08-12 09:00:00,en sala,Anticuchos,36.74,1,Excelente si lo que buscabas era Anticuchos con aire.,negativo
+553,2025-06-06 11:00:00,delivery,Lomo saltado,40.9,10,La sazón recuerda a casa; Lomo saltado de primera.,positivo
+904,2025-08-16 21:00:00,para llevar,Ceviche mixto,43.3,4,Por fin aprendieron a servir caliente. Ceviche mixto.,positivo
+91,2025-06-18 21:00:00,delivery,Sudado de pescado,46.95,7,"Me sorprendió para bien. Aceptable, pero nada memorable. Probé el Sudado de pescado.",neutro
+940,2025-06-06 14:00:00,para llevar,Ají de gallina,29.8,5,Nada mal: solo 40 minutos para el Ají de gallina.,positivo
+182,2025-07-29 12:00:00,delivery,Parihuela,45.83,9,Superó  mis  expectativas;  el  Parihuela  estuvo  increíble.,positivo
+275,2025-07-06 17:00:00,para llevar,Parihuela,47.27,10,De  los  mejores  Parihuela  que  he  probado.,positivo
+896,2025-06-25 11:00:00,delivery,Pollo saltado,42.6,7,Todo perfecto; volvería sin dudar. El Pollo saltado brilló.,positivo
+70,2025-06-11 14:00:00,para llevar,Ceviche clásico,42.01,9,"Sabor intenso, cocción precisa; Ceviche clásico bien logrado.",positivo
+292,2025-06-18 13:00:00,para llevar,Pollo saltado,41.14,8,De los mejores Pollo saltado que he probado.,positivo
+132,2025-06-20 17:00:00,delivery,Sudado de pescado,45.22,2,El  Sudado  de  pescado  llegó  frío  y  sin  sabor.,negativo
+301,2025-08-08 17:00:00,delivery,Chicharrón de calamar,39.1,4,"El Chicharrón de calamar estuvo genial, dicen.",positivo
+425,2025-06-09 14:00:00,delivery,Pollo saltado,39.94,3,El Pollo saltado llegó frío y sin sabor.,negativo
+327,2025-07-29 18:00:00,en sala,Tallarines verdes,31.66,6,Precio justo por lo que ofrecen; Tallarines verdes ok.,neutro
+145,2025-07-18 15:00:00,en sala,Seco de res,35.76,4,Por fin aprendieron a servir caliente. Seco de res.,neutro
+424,2025-08-21 20:00:00,delivery,Ceviche mixto,48.83,8,Por  fin  aprendieron  a  servir  caliente.  Ceviche  mixto.,neutro
+581,2025-08-18 19:00:00,en sala,Parihuela,47.0,1,Mal empaque; el Parihuela llegó deshecho.,negativo
+136,2025-06-24 19:00:00,en sala,Tallarines verdes,37.01,6,Me sorprendió para bien. Experiencia neutral; Tallarines verdes sin sorpresas.,neutro
+451,2025-06-23 13:00:00,delivery,Arroz con mariscos,41.16,8,"Sabor intenso, cocción precisa; Arroz con mariscos bien logrado.",positivo
+165,2025-08-01 17:00:00,para llevar,Parihuela,44.02,7,"Todo espectacular, excepto algunos detalles menores. Mala experiencia: Parihuela salado y arroz duro.",negativo
+29,2025-08-23 11:00:00,para llevar,Parihuela,40.97,4,Excelente si lo que buscabas era Parihuela con aire.,positivo
+774,2025-08-30 21:00:00,para llevar,Sudado de pescado,38.71,9,De los mejores Sudado de pescado que he probado.,positivo
+194,2025-08-14 18:00:00,en sala,Sudado de pescado,49.46,9,"Sabor intenso, cocción precisa; Sudado de pescado bien logrado.",positivo
+389,2025-06-26 11:00:00,para llevar,Ají de gallina,30.7,7,La sazón recuerda a casa; Ají de gallina de primera.,positivo
+853,2025-07-01 20:00:00,delivery,Arroz chaufa,25.37,7,Servicio  correcto;  el  Arroz  chaufa  normal.,neutro
+170,2025-08-21 17:00:00,delivery,Causa limeña,31.52,7,Superó mis expectativas; el Causa limeña estuvo increíble.,positivo
+706,2025-07-28 13:00:00,para llevar,Parihuela,44.41,7,Ambiente agradable y Parihuela delicioso.,positivo
+141,2025-08-29 16:00:00,para llevar,Ají de gallina,34.78,2,El Ají de gallina parecía del día anterior.,negativo
+174,2025-07-08 19:00:00,para llevar,Arroz con mariscos,40.25,8,"Excelente atención, el Arroz con mariscos estaba en su punto.",positivo
+7,2025-08-17 13:00:00,en sala,Sudado de pescado,49.83,7,"Excelente atención, el Sudado de pescado estaba en su punto.",positivo
+746,2025-07-13 12:00:00,delivery,Anticuchos,30.89,4,No volvería; Anticuchos mediocre y atención deficiente.,negativo
+479,2025-07-10 15:00:00,delivery,Arroz con mariscos,41.78,6,"Cumple, aunque podría mejorar la presentación del Arroz con mariscos.",neutro
+74,2025-07-11 19:00:00,delivery,Tacu tacu con lomo,50.78,7,"Calidad constante, precio razonable. Tacu tacu con lomo ok.",positivo
+911,2025-07-31 20:00:00,para llevar,Parihuela,43.17,1,Nada rescatable del Parihuela.,negativo
+814,2025-08-04 11:00:00,en sala,Parihuela,41.43,5,"Cumple,  aunque  podría  mejorar  la  presentación  del  Parihuela.",neutro
+239,2025-07-06 12:00:00,para llevar,Tacu tacu con lomo,43.07,5,Precio justo por lo que ofrecen; Tacu tacu con lomo ok.,neutro
+146,2025-06-24 16:00:00,delivery,Anticuchos,28.17,10,"Sabor intenso, cocción precisa; Anticuchos bien logrado.",positivo
+793,2025-08-14 14:00:00,para llevar,Tallarines verdes,34.25,4,"El Tallarines verdes estuvo genial, dicen.",negativo
+235,2025-07-19 15:00:00,delivery,Parihuela,49.27,5,Experiencia neutral; Parihuela sin sorpresas.,neutro
+221,2025-07-17 20:00:00,delivery,Sudado de pescado,45.95,10,Por fin aprendieron a servir caliente. Sudado de pescado.,positivo
+924,2025-06-25 19:00:00,para llevar,Pollo saltado,34.74,9,Muy buen sabor y porción justa. Pollo saltado recomendado.,positivo
+501,2025-06-26 18:00:00,para llevar,Ceviche clásico,43.91,7,"Todo espectacular, excepto algunos detalles menores. Nada rescatable del Ceviche clásico.",negativo
+133,2025-07-01 13:00:00,para llevar,Sudado de pescado,45.18,3,Increíble cómo el Sudado de pescado te hace dudar si fue suerte o descuido.,negativo
+991,2025-08-01 14:00:00,delivery,Parihuela,47.08,7,Excelente si lo que buscabas era Parihuela con aire.,positivo
+775,2025-06-06 12:00:00,en sala,Causa limeña,24.1,10,Todo perfecto; volvería sin dudar. El Causa limeña brilló.,positivo
+186,2025-07-28 21:00:00,en sala,Ají de gallina,39.1,9,Ambiente agradable y Ají de gallina delicioso.,positivo
+42,2025-06-07 18:00:00,en sala,Seco de res,42.33,7,"Espectacular,  excepto  el  Seco  de  res,  la  cuenta  y  la  espera.",positivo
+697,2025-08-25 12:00:00,delivery,Arroz con mariscos,45.31,9,Superó mis expectativas; el Arroz con mariscos estuvo increíble.,positivo
+109,2025-07-02 20:00:00,delivery,Anticuchos,34.01,10,Todo perfecto; volvería sin dudar. El Anticuchos brilló.,positivo
+589,2025-07-17 15:00:00,delivery,Causa limeña,28.48,7,Ambiente agradable y Causa limeña delicioso.,positivo
+57,2025-08-23 10:00:00,delivery,Sudado de pescado,46.64,6,Excelente si lo que buscabas era Sudado de pescado con aire.,neutro
+406,2025-07-06 09:00:00,delivery,Ceviche mixto,46.4,9,"Excelente atención, el Ceviche mixto estaba en su punto.",positivo
+443,2025-08-13 19:00:00,delivery,Parihuela,50.55,4,Pensé que sería mejor. Excelente si lo que buscabas era Parihuela con aire.,neutro
+758,2025-08-20 19:00:00,para llevar,Tacu tacu con lomo,45.5,7,Regular; el Tacu tacu con lomo podría tener más sazón.,neutro
+998,2025-06-12 11:00:00,en sala,Sudado de pescado,41.55,8,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+25,2025-07-20 12:00:00,delivery,Seco de res,42.47,6,Precio justo por lo que ofrecen; Seco de res ok.,neutro
+468,2025-07-09 19:00:00,delivery,Seco de res,41.58,4,Ni bien ni mal; Seco de res promedio.,neutro
+540,2025-06-15 21:00:00,en sala,Causa limeña,27.54,2,"El Causa limeña estuvo genial, dicen.",negativo
+532,2025-07-26 22:00:00,para llevar,Ceviche mixto,44.39,5,Pensé que sería mejor. Lo esperado para el precio; Ceviche mixto.,neutro
+619,2025-06-27 20:00:00,en sala,Sudado de pescado,43.72,1,"Espectacular, excepto el Sudado de pescado, la cuenta y la espera.",positivo
+695,2025-07-12 11:00:00,en sala,Pollo saltado,35.81,7,Experiencia neutral; Pollo saltado sin sorpresas.,neutro
+927,2025-08-18 11:00:00,delivery,Sudado de pescado,41.83,2,El Sudado de pescado parecía del día anterior.,negativo
+339,2025-08-28 14:00:00,en sala,Arroz con mariscos,33.99,9,Todo perfecto; volvería sin dudar. El Arroz con mariscos brilló.,positivo
+52,2025-06-14 19:00:00,para llevar,Tallarines verdes,34.34,1,Excelente si lo que buscabas era Tallarines verdes con aire.,negativo
+508,2025-07-16 16:00:00,en sala,Lomo saltado,44.39,10,Muy buen sabor y porción justa. Lomo saltado recomendado.,positivo
+517,2025-07-20 11:00:00,para llevar,Arroz chaufa,28.66,9,"Sabor intenso, cocción precisa; Arroz chaufa bien logrado.",positivo
+921,2025-06-30 21:00:00,delivery,Tacu tacu con lomo,48.05,8,Servicio rápido y amable. Tacu tacu con lomo impecable.,positivo
+782,2025-06-16 10:00:00,delivery,Anticuchos,31.35,3,Por fin aprendieron a servir caliente. Anticuchos.,neutro
+265,2025-08-30 11:00:00,en sala,Tacu tacu con lomo,47.78,8,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+818,2025-06-14 17:00:00,para llevar,Seco de res,39.98,8,"Cumple, aunque podría mejorar la presentación del Seco de res.",neutro
+711,2025-06-17 11:00:00,delivery,Arroz con mariscos,42.53,4,Pensé  que  sería  mejor.  Ni  bien  ni  mal;  Arroz  con  mariscos  promedio.,neutro
+683,2025-08-22 15:00:00,en sala,Tacu tacu con lomo,52.83,7,Ambiente agradable y Tacu tacu con lomo delicioso.,positivo
+833,2025-07-09 17:00:00,para llevar,Chicharrón de calamar,43.14,1,No volvería; Chicharrón de calamar mediocre y atención deficiente.,negativo
+519,2025-07-13 13:00:00,delivery,Seco de res,35.71,4,"El Seco de res estuvo genial, dicen.",positivo
+448,2025-06-20 11:00:00,en sala,Chicharrón de calamar,42.4,4,Increíble cómo el Chicharrón de calamar te hace dudar si fue suerte o descuido.,negativo
+19,2025-08-05 20:00:00,en sala,Arroz con mariscos,40.06,6,Servicio correcto; el Arroz con mariscos normal.,neutro
+716,2025-06-10 22:00:00,delivery,Chicharrón de calamar,41.82,4,Pensé que sería mejor. Excelente si lo que buscabas era Chicharrón de calamar con aire.,neutro
+484,2025-06-11 16:00:00,delivery,Ceviche mixto,46.79,9,La sazón recuerda a casa; Ceviche mixto de primera.,positivo
+569,2025-08-22 20:00:00,delivery,Lomo saltado,41.06,9,"Calidad constante, precio razonable. Lomo saltado ok.",positivo
+434,2025-08-02 11:00:00,delivery,Tallarines verdes,36.33,6,Me sorprendió para bien. Precio justo por lo que ofrecen; Tallarines verdes ok.,neutro
+368,2025-08-30 11:00:00,para llevar,Anticuchos,31.9,9,"Espectacular, excepto el Anticuchos, la cuenta y la espera.",positivo
+84,2025-06-19 20:00:00,en sala,Seco de res,35.69,4,Precio alto para un Seco de res tan flojo.,negativo
+62,2025-08-10 12:00:00,delivery,Arroz chaufa,32.67,8,Muy buen sabor y porción justa. Arroz chaufa recomendado.,positivo
+639,2025-07-29 18:00:00,en sala,Chicharrón de calamar,46.36,4,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",negativo
+273,2025-07-26 19:00:00,para llevar,Lomo saltado,42.69,8,Por fin aprendieron a servir caliente. Lomo saltado.,positivo
+286,2025-08-11 17:00:00,delivery,Ceviche clásico,42.27,7,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Ceviche clásico tan flojo.",negativo
+361,2025-07-31 21:00:00,delivery,Seco de res,38.99,2,"Una experiencia, definitivamente Seco de res.",negativo
+355,2025-06-16 18:00:00,delivery,Seco de res,39.88,2,Por fin aprendieron a servir caliente. Seco de res.,positivo
+457,2025-06-08 17:00:00,delivery,Anticuchos,26.64,7,Lo esperado para el precio; Anticuchos.,neutro
+279,2025-07-15 09:00:00,delivery,Tacu tacu con lomo,53.08,5,Por fin aprendieron a servir caliente. Tacu tacu con lomo.,positivo
+13,2025-07-29 10:00:00,delivery,Arroz con mariscos,40.32,10,"Calidad constante, precio razonable. Arroz con mariscos ok.",positivo
+183,2025-08-23 19:00:00,en sala,Sudado de pescado,47.55,4,Todo perfecto… salvo detalles menores como el Sudado de pescado crudo.,positivo
+369,2025-08-06 21:00:00,para llevar,Lomo saltado,39.71,5,El Lomo saltado parecía del día anterior.,negativo
+882,2025-07-06 21:00:00,delivery,Tallarines verdes,34.53,9,"Sabor  intenso,  cocción  precisa;  Tallarines  verdes  bien  logrado.",positivo
+616,2025-08-13 10:00:00,para llevar,Chicharrón de calamar,43.87,6,Excelente si lo que buscabas era Chicharrón de calamar con aire.,neutro
+224,2025-07-29 20:00:00,para llevar,Arroz chaufa,29.6,10,Servicio rápido y amable. Arroz chaufa impecable.,positivo
+573,2025-07-09 19:00:00,para llevar,Tacu tacu con lomo,46.78,2,"El Tacu tacu con lomo estuvo genial, dicen.",negativo
+971,2025-07-24 11:00:00,en sala,Chicharrón de calamar,41.73,6,Excelente si lo que buscabas era Chicharrón de calamar con aire.,neutro
+654,2025-07-17 22:00:00,delivery,Tacu tacu con lomo,44.44,7,Servicio rápido y amable. Tacu tacu con lomo impecable.,positivo
+546,2025-07-01 17:00:00,para llevar,Seco de res,40.11,5,Precio justo por lo que ofrecen; Seco de res ok.,neutro
+583,2025-08-22 15:00:00,en sala,Lomo saltado,41.55,3,"Espectacular, excepto el Lomo saltado, la cuenta y la espera.",negativo
+634,2025-08-11 18:00:00,para llevar,Anticuchos,30.51,5,Mala experiencia: Anticuchos salado y arroz duro.,negativo
+177,2025-07-15 15:00:00,delivery,Sudado de pescado,50.37,6,Servicio correcto; el Sudado de pescado normal.,neutro
+666,2025-06-10 10:00:00,delivery,Tacu tacu con lomo,47.09,4,Por fin aprendieron a servir caliente. Tacu tacu con lomo.,neutro
+674,2025-06-05 19:00:00,para llevar,Ceviche mixto,44.59,5,Precio alto para un Ceviche mixto tan flojo.,negativo
+586,2025-08-08 12:00:00,en sala,Seco de res,37.41,6,"El Seco de res llegó a tiempo, sabor estándar.",neutro
+874,2025-06-13 13:00:00,delivery,Sudado de pescado,47.27,4,Atención lenta y Sudado de pescado regular tirando a mal.,negativo
+394,2025-06-04 15:00:00,en sala,Arroz con mariscos,40.32,8,Superó mis expectativas; el Arroz con mariscos estuvo increíble.,positivo
+164,2025-08-10 11:00:00,delivery,Causa limeña,26.67,9,De los mejores Causa limeña que he probado.,positivo
+249,2025-08-11 15:00:00,en sala,Tallarines verdes,34.31,3,"El Tallarines verdes estuvo genial, dicen.",positivo
+635,2025-07-29 15:00:00,delivery,Ají de gallina,38.15,2,Atención lenta y Ají de gallina regular tirando a mal.,negativo
+886,2025-08-22 10:00:00,para llevar,Pollo saltado,40.15,4,Increíble cómo el Pollo saltado te hace dudar si fue suerte o descuido.,positivo
+670,2025-06-11 12:00:00,para llevar,Arroz chaufa,30.52,8,"Espectacular, excepto el Arroz chaufa, la cuenta y la espera.",positivo
+376,2025-07-11 13:00:00,para llevar,Anticuchos,32.44,3,"Una experiencia, definitivamente Anticuchos.",negativo
+413,2025-06-26 21:00:00,en sala,Causa limeña,27.14,8,"Todo espectacular, excepto algunos detalles menores. Nada mal: solo 40 minutos para el Causa limeña.",negativo
+75,2025-06-12 22:00:00,delivery,Ají de gallina,35.82,6,Servicio correcto; el Ají de gallina normal.,neutro
+114,2025-06-11 13:00:00,para llevar,Anticuchos,32.45,8,"Espectacular, excepto el Anticuchos, la cuenta y la espera.",positivo
+599,2025-08-17 09:00:00,delivery,Ají de gallina,34.15,10,La sazón recuerda a casa; Ají de gallina de primera.,positivo
+962,2025-08-13 19:00:00,para llevar,Anticuchos,32.05,7,Superó mis expectativas; el Anticuchos estuvo increíble.,positivo
+391,2025-06-16 10:00:00,para llevar,Ají de gallina,39.4,7,Servicio rápido y amable. Ají de gallina impecable.,positivo
+105,2025-06-08 14:00:00,delivery,Causa limeña,32.6,4,"Cumple, aunque podría mejorar la presentación del Causa limeña.",neutro
+115,2025-08-25 20:00:00,para llevar,Tacu tacu con lomo,46.14,8,"Espectacular, excepto el Tacu tacu con lomo, la cuenta y la espera.",positivo
+418,2025-06-23 20:00:00,delivery,Chicharrón de calamar,41.28,8,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+526,2025-06-13 21:00:00,delivery,Anticuchos,30.51,7,"Espectacular, excepto el Anticuchos, la cuenta y la espera.",positivo
+458,2025-08-07 18:00:00,en sala,Ceviche clásico,38.79,7,Superó mis expectativas; el Ceviche clásico estuvo increíble.,positivo
+410,2025-08-15 09:00:00,en sala,Sudado de pescado,44.18,10,La sazón recuerda a casa; Sudado de pescado de primera.,positivo
+93,2025-08-25 21:00:00,delivery,Causa limeña,31.92,8,Por fin aprendieron a servir caliente. Causa limeña.,positivo
+931,2025-08-04 09:00:00,para llevar,Parihuela,42.22,3,El  Parihuela  llegó  frío  y  sin  sabor.,negativo
+90,2025-06-06 12:00:00,para llevar,Arroz con mariscos,37.81,8,De los mejores Arroz con mariscos que he probado.,positivo
+337,2025-07-02 21:00:00,para llevar,Seco de res,44.49,8,Muy buen sabor y porción justa. Seco de res recomendado.,positivo
+989,2025-08-28 22:00:00,para llevar,Arroz chaufa,30.64,6,Precio justo por lo que ofrecen; Arroz chaufa ok.,neutro
+922,2025-07-19 12:00:00,en sala,Ají de gallina,31.65,3,Increíble cómo el Ají de gallina te hace dudar si fue suerte o descuido.,positivo
+934,2025-07-10 11:00:00,delivery,Tallarines verdes,37.71,8,Servicio  rápido  y  amable.  Tallarines  verdes  impecable.,positivo
+606,2025-07-07 10:00:00,para llevar,Arroz con mariscos,38.54,8,"Excelente atención, el Arroz con mariscos estaba en su punto.",positivo
+594,2025-08-25 12:00:00,delivery,Arroz chaufa,34.57,6,"Cumple, aunque podría mejorar la presentación del Arroz chaufa.",neutro
+612,2025-08-08 17:00:00,en sala,Pollo saltado,36.65,9,De los mejores Pollo saltado que he probado.,positivo
+95,2025-07-24 13:00:00,delivery,Sudado de pescado,45.54,8,"Calidad constante, precio razonable. Sudado de pescado ok.",positivo
+12,2025-08-28 16:00:00,delivery,Arroz con mariscos,42.32,3,No volvería; Arroz con mariscos mediocre y atención deficiente.,negativo
+397,2025-06-10 09:00:00,para llevar,Arroz con mariscos,36.29,2,Todo perfecto… salvo detalles menores como el Arroz con mariscos crudo.,positivo
+534,2025-07-12 17:00:00,en sala,Anticuchos,33.85,2,Pensé que sería mejor. Servicio correcto; el Anticuchos normal.,neutro
+44,2025-08-24 19:00:00,para llevar,Arroz chaufa,31.37,8,De los mejores Arroz chaufa que he probado.,positivo
+43,2025-07-16 12:00:00,para llevar,Pollo saltado,43.43,3,"El Pollo saltado llegó a tiempo, sabor estándar.",neutro
+330,2025-07-02 13:00:00,en sala,Tacu tacu con lomo,49.76,8,Todo perfecto; volvería sin dudar. El Tacu tacu con lomo brilló.,positivo
+168,2025-06-08 22:00:00,para llevar,Ceviche mixto,43.43,3,Precio alto para un Ceviche mixto tan flojo.,negativo
+498,2025-08-27 19:00:00,para llevar,Tallarines verdes,32.17,6,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+877,2025-08-07 10:00:00,para llevar,Lomo saltado,38.66,8,Me sorprendió para bien. Por fin aprendieron a servir caliente. Lomo saltado.,neutro
+598,2025-06-29 17:00:00,delivery,Sudado de pescado,48.3,6,"Espectacular,  excepto  el  Sudado  de  pescado,  la  cuenta  y  la  espera.",positivo
+757,2025-06-18 10:00:00,delivery,Arroz chaufa,37.04,4,Servicio correcto; el Arroz chaufa normal.,neutro
+101,2025-08-20 16:00:00,para llevar,Ceviche mixto,42.68,6,"Una  experiencia,  definitivamente  Ceviche  mixto.",neutro
+427,2025-08-01 21:00:00,delivery,Pollo saltado,40.3,6,Experiencia neutral; Pollo saltado sin sorpresas.,neutro
+179,2025-07-20 22:00:00,en sala,Tallarines verdes,29.76,6,Lo  esperado  para  el  precio;  Tallarines  verdes.,neutro
+445,2025-07-26 12:00:00,en sala,Ceviche mixto,50.73,7,"Excelente atención, el Ceviche mixto estaba en su punto.",positivo
+417,2025-06-21 20:00:00,para llevar,Ceviche clásico,39.69,8,La sazón recuerda a casa; Ceviche clásico de primera.,positivo
+871,2025-07-20 16:00:00,para llevar,Chicharrón de calamar,41.49,7,Ambiente agradable y Chicharrón de calamar delicioso.,positivo
+883,2025-06-21 21:00:00,delivery,Anticuchos,37.47,4,Por fin aprendieron a servir caliente. Anticuchos.,neutro
+681,2025-06-02 21:00:00,en sala,Anticuchos,29.46,9,"Sabor intenso, cocción precisa; Anticuchos bien logrado.",positivo
+178,2025-07-01 16:00:00,en sala,Chicharrón de calamar,44.89,8,La sazón recuerda a casa; Chicharrón de calamar de primera.,positivo
+396,2025-07-22 14:00:00,en sala,Lomo saltado,40.74,5,"Una experiencia, definitivamente Lomo saltado.",neutro
+912,2025-07-23 12:00:00,en sala,Arroz chaufa,30.68,10,Muy buen sabor y porción justa. Arroz chaufa recomendado.,positivo
+794,2025-06-09 21:00:00,en sala,Ceviche clásico,43.14,8,Superó mis expectativas; el Ceviche clásico estuvo increíble.,positivo
+961,2025-08-04 14:00:00,delivery,Ceviche mixto,45.98,6,"Aceptable, pero nada memorable. Probé el Ceviche mixto.",neutro
+685,2025-07-05 15:00:00,para llevar,Chicharrón de calamar,43.51,5,Atención lenta y Chicharrón de calamar regular tirando a mal.,negativo
+384,2025-06-19 20:00:00,en sala,Causa limeña,31.11,9,Servicio rápido y amable. Causa limeña impecable.,positivo
+957,2025-08-13 11:00:00,en sala,Ceviche mixto,48.39,6,"Todo espectacular, excepto algunos detalles menores. Sabor pobre; Ceviche mixto decepcionó.",negativo
+752,2025-06-12 11:00:00,para llevar,Ceviche clásico,44.48,3,Ni bien ni mal; Ceviche clásico promedio.,neutro
+258,2025-08-12 22:00:00,delivery,Parihuela,48.71,7,Precio justo por lo que ofrecen; Parihuela ok.,neutro
+539,2025-08-30 19:00:00,delivery,Arroz con mariscos,37.54,5,Ni bien ni mal; Arroz con mariscos promedio.,neutro
+336,2025-08-23 11:00:00,en sala,Ceviche mixto,47.48,1,"Una experiencia, definitivamente Ceviche mixto.",negativo
+16,2025-07-07 16:00:00,delivery,Chicharrón de calamar,38.42,7,"Aceptable, pero nada memorable. Probé el Chicharrón de calamar.",neutro
+325,2025-08-02 15:00:00,delivery,Causa limeña,30.46,6,Regular; el Causa limeña podría tener más sazón.,neutro
+759,2025-07-10 18:00:00,en sala,Tacu tacu con lomo,46.51,4,Sabor pobre; Tacu tacu con lomo decepcionó.,negativo
+223,2025-07-08 14:00:00,para llevar,Chicharrón de calamar,33.33,7,Superó mis expectativas; el Chicharrón de calamar estuvo increíble.,positivo
+180,2025-07-12 18:00:00,para llevar,Tacu tacu con lomo,43.36,4,Sabor pobre; Tacu tacu con lomo decepcionó.,negativo
+984,2025-08-20 11:00:00,delivery,Tallarines verdes,39.27,7,Ambiente  agradable  y  Tallarines  verdes  delicioso.,positivo
+23,2025-06-20 16:00:00,delivery,Seco de res,37.18,9,De los mejores Seco de res que he probado.,positivo
+357,2025-08-17 13:00:00,delivery,Arroz con mariscos,38.12,5,Mala experiencia: Arroz con mariscos salado y arroz duro.,negativo
+667,2025-08-30 13:00:00,en sala,Ají de gallina,36.79,10,Servicio rápido y amable. Ají de gallina impecable.,positivo
+862,2025-08-24 13:00:00,en sala,Arroz con mariscos,35.49,5,Lo esperado para el precio; Arroz con mariscos.,neutro
+341,2025-08-08 15:00:00,delivery,Arroz con mariscos,47.82,9,"Espectacular, excepto el Arroz con mariscos, la cuenta y la espera.",positivo
+432,2025-06-27 12:00:00,para llevar,Parihuela,47.24,6,"Calidad constante, precio razonable. Parihuela ok.",positivo
+552,2025-06-21 18:00:00,delivery,Lomo saltado,38.64,8,"Calidad constante, precio razonable. Lomo saltado ok.",positivo
+834,2025-08-10 11:00:00,delivery,Tacu tacu con lomo,46.77,5,"Está bien, pero hay opciones mejores; Tacu tacu con lomo.",neutro
+204,2025-07-21 22:00:00,para llevar,Tallarines verdes,32.36,4,Increíble cómo el Tallarines verdes te hace dudar si fue suerte o descuido.,positivo
+631,2025-08-18 11:00:00,en sala,Lomo saltado,44.27,8,De los mejores Lomo saltado que he probado.,positivo
+94,2025-06-10 22:00:00,delivery,Ceviche clásico,39.4,4,Experiencia  neutral;  Ceviche  clásico  sin  sorpresas.,neutro
+559,2025-08-22 18:00:00,para llevar,Lomo saltado,44.02,8,Todo perfecto; volvería sin dudar. El Lomo saltado brilló.,positivo
+69,2025-07-22 15:00:00,delivery,Pollo saltado,40.17,7,"Espectacular,  excepto  el  Pollo  saltado,  la  cuenta  y  la  espera.",positivo
+623,2025-08-30 15:00:00,para llevar,Pollo saltado,33.21,2,Atención lenta y Pollo saltado regular tirando a mal.,negativo
+285,2025-07-27 14:00:00,para llevar,Tacu tacu con lomo,46.46,10,La  sazón  recuerda  a  casa;  Tacu  tacu  con  lomo  de  primera.,positivo
+845,2025-07-16 10:00:00,delivery,Parihuela,48.88,8,Ambiente  agradable  y  Parihuela  delicioso.,positivo
+435,2025-08-24 19:00:00,en sala,Ají de gallina,35.1,5,"Aceptable, pero nada memorable. Probé el Ají de gallina.",neutro
+154,2025-08-12 09:00:00,en sala,Chicharrón de calamar,38.61,7,Por fin aprendieron a servir caliente. Chicharrón de calamar.,neutro
+76,2025-06-17 17:00:00,en sala,Ceviche clásico,44.57,6,"Todo espectacular, excepto algunos detalles menores. Una experiencia, definitivamente Ceviche clásico.",negativo
+731,2025-08-13 15:00:00,delivery,Seco de res,33.51,4,No volvería; Seco de res mediocre y atención deficiente.,negativo
+447,2025-08-06 16:00:00,delivery,Causa limeña,28.77,5,Excelente si lo que buscabas era Causa limeña con aire.,negativo
+189,2025-08-06 16:00:00,en sala,Lomo saltado,39.86,1,Precio alto para un Lomo saltado tan flojo.,negativo
+272,2025-07-31 09:00:00,para llevar,Chicharrón de calamar,39.96,5,Increíble cómo el Chicharrón de calamar te hace dudar si fue suerte o descuido.,positivo
+237,2025-06-29 22:00:00,en sala,Causa limeña,27.52,6,Experiencia neutral; Causa limeña sin sorpresas.,neutro
+488,2025-06-02 14:00:00,en sala,Lomo saltado,40.0,3,"El Lomo saltado estuvo genial, dicen.",negativo
+118,2025-08-09 22:00:00,en sala,Ceviche mixto,46.1,1,Pensé que sería mejor. Servicio correcto; el Ceviche mixto normal.,neutro
+944,2025-08-02 17:00:00,para llevar,Arroz con mariscos,38.84,8,"Calidad  constante,  precio  razonable.  Arroz  con  mariscos  ok.",positivo
+513,2025-06-17 16:00:00,para llevar,Tacu tacu con lomo,45.01,9,La sazón recuerda a casa; Tacu tacu con lomo de primera.,positivo
+826,2025-07-10 14:00:00,para llevar,Arroz con mariscos,41.83,7,Por fin aprendieron a servir caliente. Arroz con mariscos.,positivo
+592,2025-08-12 19:00:00,en sala,Chicharrón de calamar,44.11,3,Excelente si lo que buscabas era Chicharrón de calamar con aire.,positivo
+127,2025-06-29 22:00:00,delivery,Parihuela,45.43,7,"Todo espectacular, excepto algunos detalles menores. Increíble cómo el Parihuela te hace dudar si fue suerte o descuido.",negativo
+117,2025-08-02 12:00:00,en sala,Ají de gallina,33.03,9,Superó mis expectativas; el Ají de gallina estuvo increíble.,positivo
+474,2025-06-05 18:00:00,delivery,Tallarines verdes,32.13,5,"El Tallarines verdes llegó a tiempo, sabor estándar.",neutro
+694,2025-08-06 19:00:00,para llevar,Lomo saltado,48.7,4,Precio justo por lo que ofrecen; Lomo saltado ok.,neutro
+58,2025-08-28 14:00:00,delivery,Sudado de pescado,49.33,6,Experiencia neutral; Sudado de pescado sin sorpresas.,neutro
+864,2025-06-15 18:00:00,en sala,Sudado de pescado,47.42,8,Superó mis expectativas; el Sudado de pescado estuvo increíble.,positivo
+913,2025-08-18 10:00:00,en sala,Sudado de pescado,42.75,4,Demora excesiva; Sudado de pescado pasado de cocción.,negativo
+370,2025-07-05 20:00:00,para llevar,Tallarines verdes,28.9,5,Servicio correcto; el Tallarines verdes normal.,neutro
+269,2025-07-03 22:00:00,en sala,Causa limeña,30.35,5,Precio alto para un Causa limeña tan flojo.,negativo
+47,2025-07-17 17:00:00,para llevar,Tacu tacu con lomo,47.05,8,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+350,2025-06-16 22:00:00,para llevar,Pollo saltado,39.25,9,"Todo espectacular, excepto algunos detalles menores. El Pollo saltado llegó frío y sin sabor.",negativo
+196,2025-06-15 12:00:00,para llevar,Chicharrón de calamar,42.83,5,Pensé  que  sería  mejor.  Experiencia  neutral;  Chicharrón  de  calamar  sin  sorpresas.,neutro
+1000,2025-06-02 17:00:00,para llevar,Sudado de pescado,46.52,7,Precio  justo  por  lo  que  ofrecen;  Sudado  de  pescado  ok.,neutro
+835,2025-08-15 15:00:00,delivery,Tacu tacu con lomo,43.28,6,Todo perfecto; volvería sin dudar. El Tacu tacu con lomo brilló.,positivo
+737,2025-08-10 15:00:00,en sala,Ají de gallina,35.46,8,Todo perfecto; volvería sin dudar. El Ají de gallina brilló.,positivo
+264,2025-06-07 21:00:00,en sala,Causa limeña,28.55,9,"Excelente  atención,  el  Causa  limeña  estaba  en  su  punto.",positivo
+444,2025-06-22 12:00:00,para llevar,Ceviche mixto,45.31,6,"Cumple, aunque podría mejorar la presentación del Ceviche mixto.",neutro
+676,2025-06-23 18:00:00,para llevar,Pollo saltado,36.39,6,Muy buen sabor y porción justa. Pollo saltado recomendado.,positivo
+305,2025-08-05 20:00:00,delivery,Chicharrón de calamar,38.7,6,Por fin aprendieron a servir caliente. Chicharrón de calamar.,positivo
+342,2025-07-07 14:00:00,en sala,Tacu tacu con lomo,46.01,10,Servicio rápido y amable. Tacu tacu con lomo impecable.,positivo
+967,2025-06-08 19:00:00,delivery,Arroz chaufa,36.99,8,"Sabor intenso, cocción precisa; Arroz chaufa bien logrado.",positivo
+150,2025-06-06 20:00:00,para llevar,Tacu tacu con lomo,50.81,4,Servicio correcto; el Tacu tacu con lomo normal.,neutro
+125,2025-07-18 17:00:00,en sala,Chicharrón de calamar,42.89,6,"Me sorprendió para bien. Está bien, pero hay opciones mejores; Chicharrón de calamar.",neutro
+787,2025-06-02 16:00:00,en sala,Parihuela,46.59,7,Servicio  correcto;  el  Parihuela  normal.,neutro
+51,2025-08-26 20:00:00,en sala,Chicharrón de calamar,37.62,1,Por fin aprendieron a servir caliente. Chicharrón de calamar.,positivo
+354,2025-08-18 19:00:00,para llevar,Arroz chaufa,29.37,9,"Espectacular, excepto el Arroz chaufa, la cuenta y la espera.",positivo
+928,2025-08-02 22:00:00,para llevar,Causa limeña,27.19,7,"Todo espectacular, excepto algunos detalles menores. Sabor pobre; Causa limeña decepcionó.",negativo
+143,2025-07-11 13:00:00,delivery,Arroz chaufa,35.0,1,Demora excesiva; Arroz chaufa pasado de cocción.,negativo
+471,2025-07-06 13:00:00,delivery,Ceviche clásico,42.02,3,"Espectacular, excepto el Ceviche clásico, la cuenta y la espera.",negativo
+400,2025-06-24 13:00:00,en sala,Tacu tacu con lomo,50.68,4,"Una experiencia, definitivamente Tacu tacu con lomo.",negativo
+626,2025-06-01 21:00:00,para llevar,Anticuchos,34.35,7,"Excelente atención, el Anticuchos estaba en su punto.",positivo
+321,2025-06-18 18:00:00,delivery,Anticuchos,37.98,10,Muy buen sabor y porción justa. Anticuchos recomendado.,positivo
+20,2025-08-10 11:00:00,delivery,Tacu tacu con lomo,44.81,7,"Sabor intenso, cocción precisa; Tacu tacu con lomo bien logrado.",positivo
+810,2025-08-08 22:00:00,en sala,Tallarines verdes,32.32,4,El Tallarines verdes llegó frío y sin sabor.,negativo
+791,2025-08-25 18:00:00,en sala,Ceviche mixto,40.31,3,Demora  excesiva;  Ceviche  mixto  pasado  de  cocción.,negativo
+809,2025-07-16 10:00:00,para llevar,Lomo saltado,41.5,1,Mal empaque; el Lomo saltado llegó deshecho.,negativo
+408,2025-06-08 21:00:00,en sala,Arroz con mariscos,40.16,5,Precio justo por lo que ofrecen; Arroz con mariscos ok.,neutro
+538,2025-08-19 20:00:00,para llevar,Parihuela,49.55,7,Ambiente agradable y Parihuela delicioso.,positivo
+621,2025-08-27 15:00:00,para llevar,Tacu tacu con lomo,48.18,7,"Está bien, pero hay opciones mejores; Tacu tacu con lomo.",neutro
+39,2025-07-25 20:00:00,en sala,Pollo saltado,39.13,9,La sazón recuerda a casa; Pollo saltado de primera.,positivo
+176,2025-07-30 12:00:00,en sala,Anticuchos,30.52,6,"Aceptable, pero nada memorable. Probé el Anticuchos.",neutro
+246,2025-08-03 09:00:00,para llevar,Parihuela,44.04,7,Muy buen sabor y porción justa. Parihuela recomendado.,positivo
+829,2025-06-19 22:00:00,para llevar,Chicharrón de calamar,35.36,3,Lo esperado para el precio; Chicharrón de calamar.,neutro
+668,2025-07-17 20:00:00,para llevar,Arroz con mariscos,37.29,8,"Calidad constante, precio razonable. Arroz con mariscos ok.",positivo
+755,2025-08-04 13:00:00,para llevar,Ají de gallina,40.79,4,Por fin aprendieron a servir caliente. Ají de gallina.,negativo
+859,2025-08-13 20:00:00,delivery,Causa limeña,29.46,6,"Me sorprendió para bien. Una experiencia, definitivamente Causa limeña.",neutro
+155,2025-07-27 21:00:00,para llevar,Ceviche mixto,45.63,7,Por fin aprendieron a servir caliente. Ceviche mixto.,neutro
+288,2025-06-11 20:00:00,delivery,Seco de res,36.4,2,Increíble cómo el Seco de res te hace dudar si fue suerte o descuido.,positivo
+603,2025-07-02 09:00:00,en sala,Sudado de pescado,45.55,8,Muy buen sabor y porción justa. Sudado de pescado recomendado.,positivo
+570,2025-06-10 14:00:00,para llevar,Ceviche clásico,43.97,7,Por fin aprendieron a servir caliente. Ceviche clásico.,positivo
+744,2025-06-11 10:00:00,en sala,Arroz chaufa,29.03,7,"Espectacular, excepto el Arroz chaufa, la cuenta y la espera.",positivo
+18,2025-06-15 16:00:00,delivery,Causa limeña,26.94,8,"Excelente  atención,  el  Causa  limeña  estaba  en  su  punto.",positivo
+128,2025-07-21 17:00:00,delivery,Parihuela,45.84,5,Ni bien ni mal; Parihuela promedio.,neutro
+323,2025-07-28 18:00:00,para llevar,Ceviche mixto,48.38,3,Nada mal: solo 40 minutos para el Ceviche mixto.,negativo
+256,2025-07-04 14:00:00,delivery,Tacu tacu con lomo,47.42,6,Lo esperado para el precio; Tacu tacu con lomo.,neutro
+658,2025-08-20 17:00:00,en sala,Ceviche mixto,47.15,10,"Calidad constante, precio razonable. Ceviche mixto ok.",positivo
+965,2025-06-29 21:00:00,delivery,Ceviche clásico,39.18,5,"Una experiencia, definitivamente Ceviche clásico.",positivo
+191,2025-08-02 20:00:00,delivery,Sudado de pescado,42.51,10,La sazón recuerda a casa; Sudado de pescado de primera.,positivo
+116,2025-08-05 14:00:00,para llevar,Arroz con mariscos,40.09,6,"Todo espectacular, excepto algunos detalles menores. Increíble cómo el Arroz con mariscos te hace dudar si fue suerte o descuido.",negativo
+617,2025-06-11 13:00:00,delivery,Ceviche mixto,49.16,2,Atención lenta y Ceviche mixto regular tirando a mal.,negativo
+607,2025-06-22 12:00:00,en sala,Pollo saltado,36.51,9,De los mejores Pollo saltado que he probado.,positivo
+181,2025-08-05 16:00:00,para llevar,Ají de gallina,39.2,6,Servicio rápido y amable. Ají de gallina impecable.,positivo
+302,2025-08-08 18:00:00,para llevar,Tacu tacu con lomo,49.79,3,Pensé que sería mejor. Regular; el Tacu tacu con lomo podría tener más sazón.,neutro
+760,2025-08-27 21:00:00,delivery,Pollo saltado,38.94,2,Excelente si lo que buscabas era Pollo saltado con aire.,positivo
+713,2025-07-17 12:00:00,delivery,Causa limeña,28.08,8,De los mejores Causa limeña que he probado.,positivo
+724,2025-07-03 14:00:00,para llevar,Arroz chaufa,28.28,8,"Calidad constante, precio razonable. Arroz chaufa ok.",positivo
+686,2025-08-21 16:00:00,en sala,Seco de res,39.62,6,"Cumple, aunque podría mejorar la presentación del Seco de res.",neutro
+980,2025-07-04 19:00:00,para llevar,Ají de gallina,35.19,8,De los mejores Ají de gallina que he probado.,positivo
+518,2025-07-31 22:00:00,para llevar,Parihuela,45.62,1,Excelente si lo que buscabas era Parihuela con aire.,positivo
+985,2025-07-11 22:00:00,en sala,Sudado de pescado,47.59,8,"Una experiencia, definitivamente Sudado de pescado.",neutro
+46,2025-07-08 14:00:00,delivery,Lomo saltado,42.78,3,"Está bien, pero hay opciones mejores; Lomo saltado.",neutro
+910,2025-08-30 19:00:00,en sala,Lomo saltado,41.89,8,"Todo  espectacular,  excepto  algunos  detalles  menores.  Nada  mal:  solo  40  minutos  para  el  Lomo  saltado.",negativo
+158,2025-08-18 13:00:00,en sala,Tallarines verdes,34.92,6,Superó mis expectativas; el Tallarines verdes estuvo increíble.,positivo
+852,2025-07-28 15:00:00,delivery,Sudado de pescado,47.34,2,El Sudado de pescado parecía del día anterior.,negativo
+172,2025-07-14 22:00:00,en sala,Ceviche mixto,49.88,9,"Espectacular, excepto el Ceviche mixto, la cuenta y la espera.",positivo
+17,2025-08-30 11:00:00,para llevar,Pollo saltado,38.89,2,"Pensé que sería mejor. Cumple, aunque podría mejorar la presentación del Pollo saltado.",neutro
+512,2025-07-27 11:00:00,delivery,Parihuela,45.43,7,De los mejores Parihuela que he probado.,positivo
+49,2025-06-10 11:00:00,delivery,Anticuchos,32.88,7,Ni bien ni mal; Anticuchos promedio.,neutro
+972,2025-08-07 14:00:00,para llevar,Sudado de pescado,38.32,8,"Me sorprendió para bien. Cumple, aunque podría mejorar la presentación del Sudado de pescado.",neutro
+941,2025-06-27 11:00:00,delivery,Ceviche mixto,51.04,4,"El Ceviche mixto estuvo genial, dicen.",negativo
+516,2025-07-26 19:00:00,delivery,Causa limeña,24.34,9,Ambiente agradable y Causa limeña delicioso.,positivo
+953,2025-07-10 11:00:00,para llevar,Pollo saltado,38.47,10,"Sabor intenso, cocción precisa; Pollo saltado bien logrado.",positivo
+481,2025-06-10 16:00:00,en sala,Seco de res,36.17,7,"Espectacular, excepto el Seco de res, la cuenta y la espera.",positivo
+284,2025-08-21 11:00:00,en sala,Ceviche clásico,40.71,9,Superó mis expectativas; el Ceviche clásico estuvo increíble.,positivo
+719,2025-08-13 14:00:00,para llevar,Causa limeña,25.83,6,"Calidad constante, precio razonable. Causa limeña ok.",positivo
+878,2025-06-25 09:00:00,para llevar,Pollo saltado,36.09,6,Ni bien ni mal; Pollo saltado promedio.,neutro
+226,2025-08-16 22:00:00,para llevar,Seco de res,46.35,9,Servicio rápido y amable. Seco de res impecable.,positivo
+27,2025-06-05 11:00:00,para llevar,Chicharrón de calamar,38.28,6,Por fin aprendieron a servir caliente. Chicharrón de calamar.,neutro
+955,2025-06-21 20:00:00,delivery,Tallarines verdes,33.09,2,Todo perfecto… salvo detalles menores como el Tallarines verdes crudo.,negativo
+438,2025-07-18 11:00:00,para llevar,Causa limeña,27.05,9,"Calidad constante, precio razonable. Causa limeña ok.",positivo
+952,2025-08-07 22:00:00,para llevar,Chicharrón de calamar,44.95,6,Ni bien ni mal; Chicharrón de calamar promedio.,neutro
+365,2025-06-20 17:00:00,en sala,Tallarines verdes,32.24,8,Todo perfecto; volvería sin dudar. El Tallarines verdes brilló.,positivo
+230,2025-07-24 16:00:00,en sala,Parihuela,42.19,5,Regular;  el  Parihuela  podría  tener  más  sazón.,neutro
+38,2025-08-09 11:00:00,en sala,Parihuela,48.28,4,"Una experiencia, definitivamente Parihuela.",neutro
+966,2025-06-12 17:00:00,delivery,Arroz chaufa,34.3,3,"Pensé que sería mejor. Aceptable, pero nada memorable. Probé el Arroz chaufa.",neutro
+375,2025-06-05 17:00:00,en sala,Pollo saltado,38.63,8,La sazón recuerda a casa; Pollo saltado de primera.,positivo
+470,2025-08-27 10:00:00,delivery,Causa limeña,32.45,8,"Espectacular, excepto el Causa limeña, la cuenta y la espera.",positivo
+968,2025-07-20 14:00:00,delivery,Tacu tacu con lomo,48.96,10,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+851,2025-08-29 18:00:00,en sala,Arroz con mariscos,35.51,6,"Una experiencia, definitivamente Arroz con mariscos.",neutro
+705,2025-07-06 22:00:00,para llevar,Ceviche mixto,46.42,8,Ambiente agradable y Ceviche mixto delicioso.,positivo
+842,2025-08-27 14:00:00,delivery,Tacu tacu con lomo,48.35,10,De los mejores Tacu tacu con lomo que he probado.,positivo
+195,2025-08-20 20:00:00,en sala,Anticuchos,33.07,9,"Excelente atención, el Anticuchos estaba en su punto.",positivo
+855,2025-08-28 10:00:00,para llevar,Pollo saltado,36.33,9,"Todo espectacular, excepto algunos detalles menores. Por fin aprendieron a servir caliente. Pollo saltado.",negativo
+865,2025-07-18 21:00:00,en sala,Parihuela,46.92,7,"Está bien, pero hay opciones mejores; Parihuela.",neutro
+504,2025-08-13 19:00:00,en sala,Lomo saltado,39.67,7,"Excelente atención, el Lomo saltado estaba en su punto.",positivo
+970,2025-07-27 13:00:00,en sala,Anticuchos,34.13,4,Todo perfecto… salvo detalles menores como el Anticuchos crudo.,negativo
+831,2025-07-30 22:00:00,delivery,Pollo saltado,37.91,8,Me sorprendió para bien. Lo esperado para el precio; Pollo saltado.,neutro
+580,2025-07-07 18:00:00,delivery,Ají de gallina,34.26,8,Muy buen sabor y porción justa. Ají de gallina recomendado.,positivo
+969,2025-08-11 10:00:00,en sala,Tallarines verdes,33.08,6,La sazón recuerda a casa; Tallarines verdes de primera.,positivo
+163,2025-08-03 09:00:00,en sala,Ceviche clásico,45.79,5,Precio justo por lo que ofrecen; Ceviche clásico ok.,neutro
+909,2025-07-19 21:00:00,en sala,Ceviche mixto,43.6,8,Todo perfecto; volvería sin dudar. El Ceviche mixto brilló.,positivo
+153,2025-06-17 10:00:00,en sala,Ceviche mixto,43.1,9,De los mejores Ceviche mixto que he probado.,positivo
+802,2025-06-28 09:00:00,para llevar,Tacu tacu con lomo,52.61,7,Me sorprendió para bien. Experiencia neutral; Tacu tacu con lomo sin sorpresas.,neutro
+994,2025-06-27 11:00:00,en sala,Seco de res,41.33,5,"Una experiencia, definitivamente Seco de res.",positivo
+756,2025-06-04 17:00:00,en sala,Arroz con mariscos,40.32,10,Superó mis expectativas; el Arroz con mariscos estuvo increíble.,positivo
+112,2025-08-24 18:00:00,delivery,Ceviche clásico,38.53,8,Ambiente agradable y Ceviche clásico delicioso.,positivo
+227,2025-08-12 10:00:00,en sala,Causa limeña,29.6,6,Lo esperado para el precio; Causa limeña.,neutro
+689,2025-08-03 12:00:00,delivery,Anticuchos,37.44,9,"Excelente atención, el Anticuchos estaba en su punto.",positivo
+104,2025-08-15 09:00:00,en sala,Pollo saltado,38.02,2,Todo perfecto… salvo detalles menores como el Pollo saltado crudo.,negativo
+422,2025-06-29 19:00:00,en sala,Sudado de pescado,44.8,8,La sazón recuerda a casa; Sudado de pescado de primera.,positivo
+420,2025-06-23 20:00:00,en sala,Tacu tacu con lomo,48.58,5,"El Tacu tacu con lomo llegó a tiempo, sabor estándar.",neutro
+751,2025-07-19 17:00:00,para llevar,Ají de gallina,37.15,4,Increíble cómo el Ají de gallina te hace dudar si fue suerte o descuido.,positivo
+587,2025-06-04 22:00:00,delivery,Anticuchos,25.26,8,Me  sorprendió  para  bien.  Por  fin  aprendieron  a  servir  caliente.  Anticuchos.,neutro
+781,2025-06-12 13:00:00,para llevar,Parihuela,44.44,10,Por fin aprendieron a servir caliente. Parihuela.,positivo
+673,2025-07-07 16:00:00,en sala,Arroz con mariscos,37.21,7,"Calidad constante, precio razonable. Arroz con mariscos ok.",positivo
+120,2025-08-19 21:00:00,para llevar,Tacu tacu con lomo,50.01,8,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+54,2025-08-29 13:00:00,en sala,Arroz con mariscos,40.51,7,Todo perfecto; volvería sin dudar. El Arroz con mariscos brilló.,positivo
+152,2025-08-26 11:00:00,para llevar,Arroz con mariscos,42.0,4,Excelente si lo que buscabas era Arroz con mariscos con aire.,negativo
+404,2025-07-16 16:00:00,para llevar,Chicharrón de calamar,43.32,8,Ambiente agradable y Chicharrón de calamar delicioso.,positivo
+946,2025-06-09 12:00:00,delivery,Sudado de pescado,45.36,9,La sazón recuerda a casa; Sudado de pescado de primera.,positivo
+208,2025-06-30 09:00:00,en sala,Lomo saltado,38.72,9,"Espectacular, excepto el Lomo saltado, la cuenta y la espera.",positivo
+659,2025-08-11 22:00:00,para llevar,Anticuchos,33.81,3,"Espectacular, excepto el Anticuchos, la cuenta y la espera.",negativo
+844,2025-07-08 09:00:00,para llevar,Lomo saltado,37.95,3,Increíble cómo el Lomo saltado te hace dudar si fue suerte o descuido.,negativo
+763,2025-07-11 22:00:00,en sala,Causa limeña,24.76,5,Regular; el Causa limeña podría tener más sazón.,neutro
+9,2025-06-23 16:00:00,en sala,Chicharrón de calamar,37.56,7,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+808,2025-07-11 17:00:00,en sala,Seco de res,38.64,4,Increíble cómo el Seco de res te hace dudar si fue suerte o descuido.,negativo
+37,2025-07-03 19:00:00,en sala,Pollo saltado,34.92,9,"Me sorprendió para bien. Está bien, pero hay opciones mejores; Pollo saltado.",neutro
+453,2025-07-05 14:00:00,delivery,Anticuchos,34.26,8,"Todo espectacular, excepto algunos detalles menores. Sabor pobre; Anticuchos decepcionó.",negativo
+652,2025-06-24 17:00:00,en sala,Tacu tacu con lomo,50.19,8,"Me sorprendió para bien. Está bien, pero hay opciones mejores; Tacu tacu con lomo.",neutro
+254,2025-08-01 12:00:00,en sala,Arroz chaufa,31.23,8,Servicio rápido y amable. Arroz chaufa impecable.,positivo
+304,2025-08-22 15:00:00,para llevar,Sudado de pescado,45.53,7,"Excelente atención, el Sudado de pescado estaba en su punto.",positivo
+747,2025-07-04 17:00:00,para llevar,Causa limeña,26.46,4,Precio justo por lo que ofrecen; Causa limeña ok.,neutro
+572,2025-06-29 11:00:00,delivery,Tacu tacu con lomo,47.06,10,"Calidad  constante,  precio  razonable.  Tacu  tacu  con  lomo  ok.",positivo
+624,2025-06-21 10:00:00,para llevar,Ceviche mixto,50.29,8,Me sorprendió para bien. Por fin aprendieron a servir caliente. Ceviche mixto.,neutro
+733,2025-06-02 19:00:00,en sala,Seco de res,39.67,7,Servicio rápido y amable. Seco de res impecable.,positivo
+892,2025-06-08 19:00:00,para llevar,Causa limeña,29.45,7,Ni bien ni mal; Causa limeña promedio.,neutro
+263,2025-08-09 19:00:00,en sala,Anticuchos,26.33,2,"El Anticuchos estuvo genial, dicen.",negativo
+611,2025-08-17 10:00:00,para llevar,Seco de res,32.55,4,Regular; el Seco de res podría tener más sazón.,neutro
+298,2025-08-30 12:00:00,para llevar,Ceviche mixto,45.09,7,"Espectacular,  excepto  el  Ceviche  mixto,  la  cuenta  y  la  espera.",positivo
+415,2025-06-15 22:00:00,en sala,Ceviche mixto,49.98,6,De los mejores Ceviche mixto que he probado.,positivo
+151,2025-06-08 10:00:00,delivery,Sudado de pescado,46.56,6,Experiencia neutral; Sudado de pescado sin sorpresas.,neutro
+789,2025-08-16 18:00:00,para llevar,Arroz con mariscos,40.58,2,Nada mal: solo 40 minutos para el Arroz con mariscos.,negativo
+641,2025-08-08 09:00:00,para llevar,Arroz chaufa,32.67,7,La sazón recuerda a casa; Arroz chaufa de primera.,positivo
+890,2025-06-09 17:00:00,para llevar,Chicharrón de calamar,39.89,4,Nada mal: solo 40 minutos para el Chicharrón de calamar.,negativo
+551,2025-08-05 10:00:00,en sala,Arroz con mariscos,38.23,5,"Cumple, aunque podría mejorar la presentación del Arroz con mariscos.",neutro
+887,2025-07-28 09:00:00,delivery,Anticuchos,30.78,7,Por  fin  aprendieron  a  servir  caliente.  Anticuchos.,positivo
+489,2025-07-02 12:00:00,para llevar,Arroz chaufa,31.24,4,El Arroz chaufa llegó frío y sin sabor.,negativo
+148,2025-08-09 13:00:00,delivery,Ceviche clásico,52.49,7,"Calidad constante, precio razonable. Ceviche clásico ok.",positivo
+147,2025-06-11 20:00:00,para llevar,Pollo saltado,37.71,7,La sazón recuerda a casa; Pollo saltado de primera.,positivo
+721,2025-08-08 18:00:00,en sala,Causa limeña,23.75,3,Experiencia neutral; Causa limeña sin sorpresas.,neutro
+932,2025-06-13 16:00:00,delivery,Causa limeña,30.59,8,"Calidad constante, precio razonable. Causa limeña ok.",positivo
+740,2025-07-05 21:00:00,para llevar,Sudado de pescado,41.37,8,Por fin aprendieron a servir caliente. Sudado de pescado.,positivo
+660,2025-07-31 22:00:00,para llevar,Lomo saltado,38.65,4,Excelente  si  lo  que  buscabas  era  Lomo  saltado  con  aire.,positivo
+349,2025-06-29 17:00:00,en sala,Anticuchos,33.46,6,"Me sorprendió para bien. Cumple, aunque podría mejorar la presentación del Anticuchos.",neutro
+464,2025-08-22 12:00:00,delivery,Lomo saltado,37.09,4,"Una experiencia, definitivamente Lomo saltado.",positivo
+326,2025-06-29 13:00:00,para llevar,Seco de res,36.14,10,"Sabor  intenso,  cocción  precisa;  Seco  de  res  bien  logrado.",positivo
+187,2025-07-14 17:00:00,para llevar,Tallarines verdes,34.63,9,"Todo  espectacular,  excepto  algunos  detalles  menores.  No  volvería;  Tallarines  verdes  mediocre  y  atención  deficiente.",negativo
+124,2025-06-21 22:00:00,delivery,Chicharrón de calamar,38.41,8,"Calidad constante, precio razonable. Chicharrón de calamar ok.",positivo
+854,2025-06-05 09:00:00,para llevar,Tallarines verdes,32.23,9,"Calidad constante, precio razonable. Tallarines verdes ok.",positivo
+609,2025-07-29 18:00:00,para llevar,Causa limeña,29.45,2,Atención lenta y Causa limeña regular tirando a mal.,negativo
+144,2025-07-07 14:00:00,para llevar,Tacu tacu con lomo,48.84,7,Ambiente  agradable  y  Tacu  tacu  con  lomo  delicioso.,positivo
+959,2025-06-21 17:00:00,delivery,Ají de gallina,34.06,9,Muy buen sabor y porción justa. Ají de gallina recomendado.,positivo
+198,2025-06-08 20:00:00,para llevar,Chicharrón de calamar,40.01,8,De los mejores Chicharrón de calamar que he probado.,positivo
+610,2025-06-03 12:00:00,para llevar,Ceviche clásico,43.99,8,Servicio rápido y amable. Ceviche clásico impecable.,positivo
+280,2025-08-18 18:00:00,en sala,Tacu tacu con lomo,45.75,9,Servicio rápido y amable. Tacu tacu con lomo impecable.,positivo
+294,2025-07-12 18:00:00,delivery,Tacu tacu con lomo,49.83,4,Por fin aprendieron a servir caliente. Tacu tacu con lomo.,neutro
+401,2025-07-02 19:00:00,delivery,Pollo saltado,41.47,7,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Pollo saltado tan flojo.",negativo
+123,2025-07-27 16:00:00,delivery,Parihuela,44.65,4,Precio justo por lo que ofrecen; Parihuela ok.,neutro
+184,2025-07-04 20:00:00,delivery,Tallarines verdes,29.63,4,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+203,2025-08-11 21:00:00,en sala,Anticuchos,33.57,6,Por fin aprendieron a servir caliente. Anticuchos.,positivo
+439,2025-07-05 18:00:00,delivery,Lomo saltado,37.68,3,Atención lenta y Lomo saltado regular tirando a mal.,negativo
+247,2025-08-29 15:00:00,delivery,Arroz con mariscos,39.95,8,"Espectacular, excepto el Arroz con mariscos, la cuenta y la espera.",positivo
+416,2025-08-24 15:00:00,para llevar,Seco de res,35.1,10,La sazón recuerda a casa; Seco de res de primera.,positivo
+933,2025-06-28 11:00:00,delivery,Arroz chaufa,24.66,6,"Cumple,  aunque  podría  mejorar  la  presentación  del  Arroz  chaufa.",neutro
+766,2025-08-18 18:00:00,en sala,Ceviche clásico,47.54,6,Servicio correcto; el Ceviche clásico normal.,neutro
+907,2025-06-19 21:00:00,en sala,Sudado de pescado,46.67,3,El Sudado de pescado parecía del día anterior.,negativo
+836,2025-08-24 19:00:00,delivery,Sudado de pescado,45.8,8,La sazón recuerda a casa; Sudado de pescado de primera.,positivo
+888,2025-08-25 15:00:00,delivery,Ceviche mixto,45.7,8,"Espectacular, excepto el Ceviche mixto, la cuenta y la espera.",positivo
+130,2025-06-18 09:00:00,en sala,Seco de res,29.84,5,Excelente si lo que buscabas era Seco de res con aire.,neutro
+638,2025-08-01 21:00:00,para llevar,Tallarines verdes,30.09,7,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+403,2025-08-07 12:00:00,delivery,Ceviche mixto,42.24,7,"Calidad constante, precio razonable. Ceviche mixto ok.",positivo
+785,2025-06-07 15:00:00,para llevar,Seco de res,46.8,5,Servicio correcto; el Seco de res normal.,neutro
+771,2025-07-27 22:00:00,delivery,Arroz chaufa,34.5,4,Mal  empaque;  el  Arroz  chaufa  llegó  deshecho.,negativo
+736,2025-07-21 11:00:00,para llevar,Sudado de pescado,40.17,2,Increíble cómo el Sudado de pescado te hace dudar si fue suerte o descuido.,positivo
+914,2025-06-16 17:00:00,para llevar,Seco de res,38.55,6,Nada  rescatable  del  Seco  de  res.,negativo
+220,2025-07-05 14:00:00,delivery,Ají de gallina,39.12,6,Increíble cómo el Ají de gallina te hace dudar si fue suerte o descuido.,positivo
+642,2025-07-14 10:00:00,para llevar,Seco de res,35.77,9,Superó  mis  expectativas;  el  Seco  de  res  estuvo  increíble.,positivo
+916,2025-06-25 10:00:00,delivery,Chicharrón de calamar,32.97,8,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+753,2025-06-06 12:00:00,en sala,Causa limeña,21.17,3,Todo perfecto… salvo detalles menores como el Causa limeña crudo.,negativo
+807,2025-07-23 20:00:00,para llevar,Pollo saltado,36.54,8,Ambiente agradable y Pollo saltado delicioso.,positivo
+920,2025-08-15 18:00:00,en sala,Pollo saltado,37.29,2,Pensé que sería mejor. Regular; el Pollo saltado podría tener más sazón.,neutro
+625,2025-08-18 20:00:00,en sala,Causa limeña,28.47,8,"Calidad constante, precio razonable. Causa limeña ok.",positivo
+875,2025-07-01 20:00:00,para llevar,Sudado de pescado,41.41,9,"Calidad constante, precio razonable. Sudado de pescado ok.",positivo
+761,2025-08-07 11:00:00,en sala,Seco de res,39.76,4,Servicio correcto; el Seco de res normal.,neutro
+387,2025-07-26 19:00:00,para llevar,Ceviche mixto,43.92,7,"Espectacular,  excepto  el  Ceviche  mixto,  la  cuenta  y  la  espera.",positivo
+973,2025-07-05 15:00:00,en sala,Parihuela,47.13,4,"Está  bien,  pero  hay  opciones  mejores;  Parihuela.",neutro
+510,2025-07-24 19:00:00,delivery,Tallarines verdes,35.2,10,"Calidad constante, precio razonable. Tallarines verdes ok.",positivo
+268,2025-06-23 10:00:00,delivery,Lomo saltado,44.93,8,Regular; el Lomo saltado podría tener más sazón.,neutro
+820,2025-07-27 19:00:00,delivery,Arroz chaufa,32.43,9,Servicio rápido y amable. Arroz chaufa impecable.,positivo
+442,2025-07-09 10:00:00,para llevar,Seco de res,35.57,9,"Sabor intenso, cocción precisa; Seco de res bien logrado.",positivo
+497,2025-07-19 10:00:00,para llevar,Seco de res,36.72,3,Por fin aprendieron a servir caliente. Seco de res.,positivo
+113,2025-07-15 13:00:00,en sala,Ají de gallina,38.0,8,Todo perfecto; volvería sin dudar. El Ají de gallina brilló.,positivo
+692,2025-07-03 22:00:00,delivery,Chicharrón de calamar,41.2,4,"El Chicharrón de calamar estuvo genial, dicen.",positivo
+233,2025-07-31 09:00:00,delivery,Anticuchos,34.15,6,"Cumple,  aunque  podría  mejorar  la  presentación  del  Anticuchos.",neutro
+870,2025-07-09 16:00:00,delivery,Chicharrón de calamar,39.72,5,"El Chicharrón de calamar estuvo genial, dicen.",positivo
+608,2025-06-24 18:00:00,delivery,Sudado de pescado,48.56,1,Precio alto para un Sudado de pescado tan flojo.,negativo
+672,2025-08-19 11:00:00,delivery,Causa limeña,26.54,5,"Una experiencia, definitivamente Causa limeña.",neutro
+374,2025-06-02 12:00:00,para llevar,Ceviche clásico,49.92,1,Sabor  pobre;  Ceviche  clásico  decepcionó.,negativo
+982,2025-08-28 11:00:00,delivery,Ceviche mixto,46.51,2,Nada mal: solo 40 minutos para el Ceviche mixto.,positivo
+843,2025-07-15 10:00:00,delivery,Sudado de pescado,44.07,1,Nada rescatable del Sudado de pescado.,negativo
+234,2025-08-22 15:00:00,delivery,Tacu tacu con lomo,46.84,7,Muy buen sabor y porción justa. Tacu tacu con lomo recomendado.,positivo
+786,2025-08-20 11:00:00,delivery,Tallarines verdes,33.17,8,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+677,2025-07-26 17:00:00,para llevar,Pollo saltado,37.05,9,"Espectacular, excepto el Pollo saltado, la cuenta y la espera.",positivo
+318,2025-07-15 14:00:00,delivery,Sudado de pescado,49.46,2,Excelente si lo que buscabas era Sudado de pescado con aire.,negativo
+649,2025-08-01 17:00:00,delivery,Arroz chaufa,30.56,5,"Una  experiencia,  definitivamente  Arroz  chaufa.",neutro
+411,2025-08-12 12:00:00,para llevar,Anticuchos,31.08,9,La sazón recuerda a casa; Anticuchos de primera.,positivo
+899,2025-07-22 10:00:00,en sala,Ají de gallina,38.56,2,Demora excesiva; Ají de gallina pasado de cocción.,negativo
+710,2025-07-07 14:00:00,para llevar,Arroz con mariscos,43.04,7,"Sabor intenso, cocción precisa; Arroz con mariscos bien logrado.",positivo
+359,2025-06-15 12:00:00,delivery,Tallarines verdes,33.66,4,"Una experiencia, definitivamente Tallarines verdes.",positivo
+259,2025-08-14 18:00:00,en sala,Anticuchos,34.2,7,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Anticuchos tan flojo.",negativo
+745,2025-07-07 09:00:00,para llevar,Lomo saltado,46.47,4,Sabor pobre; Lomo saltado decepcionó.,negativo
+628,2025-07-22 18:00:00,delivery,Arroz chaufa,38.88,8,Me sorprendió para bien. Ni bien ni mal; Arroz chaufa promedio.,neutro
+633,2025-08-06 09:00:00,delivery,Ají de gallina,37.36,5,Por fin aprendieron a servir caliente. Ají de gallina.,neutro
+283,2025-07-02 20:00:00,para llevar,Tacu tacu con lomo,51.5,8,Todo perfecto; volvería sin dudar. El Tacu tacu con lomo brilló.,positivo
+377,2025-06-07 11:00:00,en sala,Sudado de pescado,45.44,9,"Todo espectacular, excepto algunos detalles menores. Por fin aprendieron a servir caliente. Sudado de pescado.",negativo
+385,2025-08-06 15:00:00,delivery,Ceviche clásico,47.25,5,Demora excesiva; Ceviche clásico pasado de cocción.,negativo
+225,2025-08-08 21:00:00,para llevar,Ají de gallina,36.73,1,"Una experiencia, definitivamente Ají de gallina.",negativo
+954,2025-06-07 11:00:00,delivery,Arroz chaufa,35.3,10,"Sabor intenso, cocción precisa; Arroz chaufa bien logrado.",positivo
+815,2025-07-12 11:00:00,en sala,Ají de gallina,39.07,3,Nada mal: solo 40 minutos para el Ají de gallina.,negativo
+473,2025-06-04 19:00:00,para llevar,Tacu tacu con lomo,46.9,7,"Espectacular, excepto el Tacu tacu con lomo, la cuenta y la espera.",positivo
+348,2025-07-25 19:00:00,delivery,Arroz con mariscos,40.13,7,Superó mis expectativas; el Arroz con mariscos estuvo increíble.,positivo
+506,2025-06-06 22:00:00,en sala,Pollo saltado,39.41,8,Superó  mis  expectativas;  el  Pollo  saltado  estuvo  increíble.,positivo
+640,2025-06-29 19:00:00,en sala,Pollo saltado,39.35,7,"Cumple, aunque podría mejorar la presentación del Pollo saltado.",neutro
+988,2025-06-28 11:00:00,delivery,Tacu tacu con lomo,46.43,4,"Espectacular, excepto el Tacu tacu con lomo, la cuenta y la espera.",negativo
+929,2025-07-25 20:00:00,en sala,Sudado de pescado,45.26,5,Lo esperado para el precio; Sudado de pescado.,neutro
+906,2025-06-28 21:00:00,delivery,Ceviche clásico,47.52,7,"Espectacular, excepto el Ceviche clásico, la cuenta y la espera.",positivo
+620,2025-07-03 13:00:00,delivery,Tacu tacu con lomo,50.44,6,Increíble cómo el Tacu tacu con lomo te hace dudar si fue suerte o descuido.,positivo
+856,2025-07-06 16:00:00,en sala,Anticuchos,24.75,8,Por fin aprendieron a servir caliente. Anticuchos.,positivo
+804,2025-07-13 14:00:00,para llevar,Causa limeña,24.26,6,La sazón recuerda a casa; Causa limeña de primera.,positivo
+646,2025-06-11 19:00:00,para llevar,Ají de gallina,40.03,1,Precio alto para un Ají de gallina tan flojo.,negativo
+847,2025-06-28 19:00:00,delivery,Anticuchos,29.99,8,"Calidad constante, precio razonable. Anticuchos ok.",positivo
+557,2025-07-13 14:00:00,delivery,Ceviche clásico,41.01,8,La sazón recuerda a casa; Ceviche clásico de primera.,positivo
+958,2025-06-05 19:00:00,delivery,Tallarines verdes,31.27,8,Ni bien ni mal; Tallarines verdes promedio.,neutro
+578,2025-08-10 16:00:00,en sala,Ceviche mixto,43.77,7,"Espectacular, excepto el Ceviche mixto, la cuenta y la espera.",positivo
+796,2025-06-08 10:00:00,para llevar,Tacu tacu con lomo,52.15,8,Ambiente agradable y Tacu tacu con lomo delicioso.,positivo
+86,2025-08-12 18:00:00,delivery,Ceviche mixto,42.1,5,Ni bien ni mal; Ceviche mixto promedio.,neutro
+243,2025-08-13 14:00:00,en sala,Ceviche mixto,38.68,6,Regular; el Ceviche mixto podría tener más sazón.,neutro
+699,2025-08-28 16:00:00,delivery,Chicharrón de calamar,42.62,3,"Espectacular, excepto el Chicharrón de calamar, la cuenta y la espera.",positivo
+160,2025-07-11 19:00:00,en sala,Parihuela,48.0,7,Excelente  si  lo  que  buscabas  era  Parihuela  con  aire.,neutro
+525,2025-08-19 18:00:00,en sala,Seco de res,42.59,6,Servicio rápido y amable. Seco de res impecable.,positivo
+36,2025-08-19 19:00:00,para llevar,Arroz con mariscos,39.81,9,Muy  buen  sabor  y  porción  justa.  Arroz  con  mariscos  recomendado.,positivo
+541,2025-08-30 15:00:00,delivery,Causa limeña,24.53,9,"Sabor intenso, cocción precisa; Causa limeña bien logrado.",positivo
+171,2025-08-15 18:00:00,delivery,Ceviche mixto,52.78,2,Nada  rescatable  del  Ceviche  mixto.,negativo
+655,2025-08-13 19:00:00,delivery,Tallarines verdes,35.02,8,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+891,2025-08-01 10:00:00,en sala,Lomo saltado,38.05,7,Experiencia neutral; Lomo saltado sin sorpresas.,neutro
+858,2025-08-18 09:00:00,en sala,Arroz con mariscos,44.42,7,"Espectacular, excepto el Arroz con mariscos, la cuenta y la espera.",positivo
+848,2025-07-17 22:00:00,en sala,Pollo saltado,35.63,4,Servicio correcto; el Pollo saltado normal.,neutro
+945,2025-08-08 13:00:00,para llevar,Seco de res,37.17,2,No volvería; Seco de res mediocre y atención deficiente.,negativo
+734,2025-06-20 14:00:00,para llevar,Tacu tacu con lomo,51.08,6,"Aceptable,  pero  nada  memorable.  Probé  el  Tacu  tacu  con  lomo.",neutro
+96,2025-08-19 16:00:00,en sala,Tacu tacu con lomo,54.03,4,El Tacu tacu con lomo llegó frío y sin sabor.,negativo
+564,2025-06-28 22:00:00,en sala,Arroz con mariscos,41.09,4,Mala experiencia: Arroz con mariscos salado y arroz duro.,negativo
+241,2025-08-26 20:00:00,en sala,Ceviche clásico,44.99,4,"Cumple, aunque podría mejorar la presentación del Ceviche clásico.",neutro
+743,2025-06-06 22:00:00,delivery,Sudado de pescado,41.66,7,"Una experiencia, definitivamente Sudado de pescado.",neutro
+575,2025-06-11 13:00:00,en sala,Lomo saltado,43.2,6,De los mejores Lomo saltado que he probado.,positivo
+691,2025-06-19 09:00:00,para llevar,Chicharrón de calamar,42.35,8,"Excelente atención, el Chicharrón de calamar estaba en su punto.",positivo
+461,2025-06-04 12:00:00,delivery,Causa limeña,27.43,5,Experiencia neutral; Causa limeña sin sorpresas.,neutro
+554,2025-08-24 13:00:00,delivery,Sudado de pescado,41.68,6,"Aceptable, pero nada memorable. Probé el Sudado de pescado.",neutro
+889,2025-06-01 17:00:00,delivery,Ceviche mixto,48.68,9,Por fin aprendieron a servir caliente. Ceviche mixto.,positivo
+207,2025-08-15 12:00:00,para llevar,Anticuchos,32.07,8,"Todo espectacular, excepto algunos detalles menores. Atención lenta y Anticuchos regular tirando a mal.",negativo
+393,2025-07-21 17:00:00,delivery,Ceviche mixto,49.31,9,Todo perfecto; volvería sin dudar. El Ceviche mixto brilló.,positivo
+795,2025-07-06 14:00:00,delivery,Seco de res,35.96,8,Me sorprendió para bien. Regular; el Seco de res podría tener más sazón.,neutro
+398,2025-07-13 10:00:00,en sala,Arroz chaufa,29.43,8,"Espectacular, excepto el Arroz chaufa, la cuenta y la espera.",positivo
+767,2025-06-30 19:00:00,delivery,Sudado de pescado,43.68,9,De los mejores Sudado de pescado que he probado.,positivo
+849,2025-06-18 09:00:00,delivery,Ceviche mixto,42.56,8,"El Ceviche mixto llegó a tiempo, sabor estándar.",neutro
+218,2025-07-22 22:00:00,para llevar,Chicharrón de calamar,38.79,7,Precio justo por lo que ofrecen; Chicharrón de calamar ok.,neutro
+5,2025-07-30 20:00:00,para llevar,Seco de res,34.57,8,De los mejores Seco de res que he probado.,positivo
+769,2025-07-20 16:00:00,para llevar,Pollo saltado,33.34,8,Excelente si lo que buscabas era Pollo saltado con aire.,neutro
+643,2025-08-13 13:00:00,para llevar,Parihuela,54.32,6,Servicio correcto; el Parihuela normal.,neutro
+930,2025-08-15 11:00:00,en sala,Arroz chaufa,22.98,6,Ni bien ni mal; Arroz chaufa promedio.,neutro
+613,2025-08-09 22:00:00,en sala,Ceviche clásico,38.93,8,"Sabor intenso, cocción precisa; Ceviche clásico bien logrado.",positivo
+739,2025-08-13 12:00:00,en sala,Pollo saltado,32.23,8,Ambiente agradable y Pollo saltado delicioso.,positivo
+547,2025-07-20 15:00:00,para llevar,Tallarines verdes,38.68,8,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+726,2025-07-11 09:00:00,en sala,Parihuela,50.3,3,"Una experiencia, definitivamente Parihuela.",positivo
+684,2025-08-06 21:00:00,delivery,Arroz chaufa,25.52,9,"Todo espectacular, excepto algunos detalles menores. Atención lenta y Arroz chaufa regular tirando a mal.",negativo
+99,2025-06-25 21:00:00,en sala,Ceviche clásico,43.38,8,Ambiente agradable y Ceviche clásico delicioso.,positivo
+805,2025-07-14 19:00:00,delivery,Anticuchos,32.92,3,El Anticuchos llegó frío y sin sabor.,negativo
+728,2025-07-04 14:00:00,en sala,Ceviche clásico,44.1,6,"Aceptable, pero nada memorable. Probé el Ceviche clásico.",neutro
+574,2025-06-19 10:00:00,para llevar,Arroz con mariscos,40.66,3,Por  fin  aprendieron  a  servir  caliente.  Arroz  con  mariscos.,negativo
+407,2025-06-21 10:00:00,delivery,Causa limeña,23.79,10,La sazón recuerda a casa; Causa limeña de primera.,positivo
+503,2025-08-01 14:00:00,delivery,Tallarines verdes,33.68,9,Me sorprendió para bien. Servicio correcto; el Tallarines verdes normal.,neutro
+48,2025-08-01 21:00:00,para llevar,Parihuela,43.5,8,Superó mis expectativas; el Parihuela estuvo increíble.,positivo
+33,2025-08-30 22:00:00,delivery,Arroz chaufa,31.53,2,Pensé que sería mejor. Excelente si lo que buscabas era Arroz chaufa con aire.,neutro
+780,2025-06-23 16:00:00,para llevar,Ceviche mixto,38.31,6,Experiencia neutral; Ceviche mixto sin sorpresas.,neutro
+840,2025-08-14 21:00:00,delivery,Arroz con mariscos,45.6,8,Me sorprendió para bien. Por fin aprendieron a servir caliente. Arroz con mariscos.,neutro
+201,2025-07-02 13:00:00,para llevar,Chicharrón de calamar,40.27,1,Atención lenta y Chicharrón de calamar regular tirando a mal.,negativo
+135,2025-07-01 20:00:00,en sala,Seco de res,40.74,4,Lo  esperado  para  el  precio;  Seco  de  res.,neutro
+28,2025-07-27 10:00:00,para llevar,Sudado de pescado,42.83,6,Ni bien ni mal; Sudado de pescado promedio.,neutro
+881,2025-08-29 11:00:00,para llevar,Sudado de pescado,43.45,5,"Una experiencia, definitivamente Sudado de pescado.",neutro
+231,2025-06-03 15:00:00,para llevar,Lomo saltado,38.35,7,Ambiente agradable y Lomo saltado delicioso.,positivo
+490,2025-08-04 18:00:00,para llevar,Parihuela,47.37,9,La sazón recuerda a casa; Parihuela de primera.,positivo
+773,2025-07-21 18:00:00,en sala,Sudado de pescado,43.99,10,Por fin aprendieron a servir caliente. Sudado de pescado.,positivo
+379,2025-06-02 14:00:00,delivery,Chicharrón de calamar,43.47,8,Superó mis expectativas; el Chicharrón de calamar estuvo increíble.,positivo
+289,2025-07-19 11:00:00,para llevar,Parihuela,49.69,3,Sabor pobre; Parihuela decepcionó.,negativo
+419,2025-08-15 22:00:00,para llevar,Anticuchos,31.81,5,"Está bien, pero hay opciones mejores; Anticuchos.",neutro
+675,2025-08-09 13:00:00,delivery,Seco de res,34.13,4,Ni bien ni mal; Seco de res promedio.,neutro
+392,2025-06-06 12:00:00,en sala,Chicharrón de calamar,39.57,3,Nada rescatable del Chicharrón de calamar.,negativo
+593,2025-06-29 21:00:00,en sala,Anticuchos,31.15,4,Excelente si lo que buscabas era Anticuchos con aire.,neutro
+499,2025-07-05 18:00:00,en sala,Tallarines verdes,29.77,10,"Calidad constante, precio razonable. Tallarines verdes ok.",positivo
+139,2025-08-24 19:00:00,delivery,Tallarines verdes,36.08,4,Por fin aprendieron a servir caliente. Tallarines verdes.,positivo
+63,2025-08-16 09:00:00,para llevar,Arroz chaufa,33.26,4,Precio justo por lo que ofrecen; Arroz chaufa ok.,neutro
+472,2025-07-01 09:00:00,para llevar,Anticuchos,31.89,6,"Espectacular, excepto el Anticuchos, la cuenta y la espera.",positivo
+648,2025-08-05 13:00:00,delivery,Pollo saltado,45.03,8,De los mejores Pollo saltado que he probado.,positivo
+129,2025-06-04 14:00:00,delivery,Arroz chaufa,28.44,5,Excelente si lo que buscabas era Arroz chaufa con aire.,negativo
+977,2025-08-21 16:00:00,en sala,Ceviche mixto,46.15,5,"El Ceviche mixto llegó a tiempo, sabor estándar.",neutro
+521,2025-07-11 10:00:00,delivery,Pollo saltado,37.47,7,"Todo espectacular, excepto algunos detalles menores. Todo perfecto… salvo detalles menores como el Pollo saltado crudo.",negativo
+839,2025-07-19 14:00:00,para llevar,Ceviche clásico,44.72,7,"Espectacular, excepto el Ceviche clásico, la cuenta y la espera.",positivo
+963,2025-08-01 09:00:00,en sala,Chicharrón de calamar,39.91,5,Todo perfecto… salvo detalles menores como el Chicharrón de calamar crudo.,negativo
+65,2025-07-01 18:00:00,para llevar,Seco de res,36.94,4,Nada mal: solo 40 minutos para el Seco de res.,positivo
+813,2025-06-05 21:00:00,delivery,Arroz chaufa,28.91,4,Increíble cómo el Arroz chaufa te hace dudar si fue suerte o descuido.,negativo
+15,2025-08-03 19:00:00,para llevar,Pollo saltado,34.84,3,Pensé que sería mejor. Experiencia neutral; Pollo saltado sin sorpresas.,neutro
+157,2025-07-20 17:00:00,en sala,Ceviche clásico,42.1,8,"Excelente atención, el Ceviche clásico estaba en su punto.",positivo
+41,2025-08-29 13:00:00,en sala,Tacu tacu con lomo,50.2,9,De los mejores Tacu tacu con lomo que he probado.,positivo
+493,2025-07-22 09:00:00,delivery,Parihuela,53.13,9,"Sabor intenso, cocción precisa; Parihuela bien logrado.",positivo
+380,2025-07-18 18:00:00,en sala,Tallarines verdes,34.01,3,Nada rescatable del Tallarines verdes.,negativo
+188,2025-08-04 09:00:00,delivery,Chicharrón de calamar,41.52,3,Precio alto para un Chicharrón de calamar tan flojo.,negativo
+764,2025-07-23 15:00:00,en sala,Anticuchos,29.35,6,"Excelente atención, el Anticuchos estaba en su punto.",positivo
+217,2025-07-08 18:00:00,delivery,Arroz con mariscos,45.81,7,"El  Arroz  con  mariscos  llegó  a  tiempo,  sabor  estándar.",neutro
+792,2025-06-23 11:00:00,para llevar,Tallarines verdes,35.44,3,Ni  bien  ni  mal;  Tallarines  verdes  promedio.,neutro
+53,2025-07-12 18:00:00,en sala,Pollo saltado,33.75,9,"Excelente atención, el Pollo saltado estaba en su punto.",positivo
+879,2025-06-28 18:00:00,en sala,Sudado de pescado,47.28,6,"Todo espectacular, excepto algunos detalles menores. Mala experiencia: Sudado de pescado salado y arroz duro.",negativo
+338,2025-07-19 16:00:00,para llevar,Tacu tacu con lomo,47.27,4,Pensé que sería mejor. Lo esperado para el precio; Tacu tacu con lomo.,neutro
+749,2025-08-29 18:00:00,para llevar,Causa limeña,25.01,8,"Excelente  atención,  el  Causa  limeña  estaba  en  su  punto.",positivo
+720,2025-06-22 21:00:00,para llevar,Pollo saltado,49.11,5,Excelente si lo que buscabas era Pollo saltado con aire.,neutro
+725,2025-06-03 17:00:00,delivery,Pollo saltado,37.87,6,"Todo  espectacular,  excepto  algunos  detalles  menores.  Excelente  si  lo  que  buscabas  era  Pollo  saltado  con  aire.",negativo
+296,2025-07-12 15:00:00,para llevar,Anticuchos,38.75,3,Nada mal: solo 40 minutos para el Anticuchos.,negativo
+702,2025-08-22 21:00:00,en sala,Ceviche mixto,51.27,7,"Sabor intenso, cocción precisa; Ceviche mixto bien logrado.",positivo
+252,2025-08-15 20:00:00,delivery,Tacu tacu con lomo,48.72,7,"Espectacular,  excepto  el  Tacu  tacu  con  lomo,  la  cuenta  y  la  espera.",positivo
+727,2025-08-13 18:00:00,para llevar,Seco de res,35.96,3,"El Seco de res llegó a tiempo, sabor estándar.",neutro
+462,2025-07-31 18:00:00,delivery,Pollo saltado,34.67,9,De los mejores Pollo saltado que he probado.,positivo
+456,2025-06-28 22:00:00,para llevar,Tacu tacu con lomo,47.19,6,De los mejores Tacu tacu con lomo que he probado.,positivo
+997,2025-06-16 18:00:00,delivery,Ceviche clásico,46.12,10,"Me  sorprendió  para  bien.  El  Ceviche  clásico  llegó  a  tiempo,  sabor  estándar.",neutro
+816,2025-06-05 16:00:00,en sala,Seco de res,37.64,5,Regular; el Seco de res podría tener más sazón.,neutro
+863,2025-07-06 13:00:00,para llevar,Sudado de pescado,49.11,8,"Excelente  atención,  el  Sudado  de  pescado  estaba  en  su  punto.",positivo
+270,2025-07-22 16:00:00,delivery,Tallarines verdes,30.3,8,"Una experiencia, definitivamente Tallarines verdes.",neutro
+202,2025-07-07 20:00:00,para llevar,Tallarines verdes,34.38,9,Servicio rápido y amable. Tallarines verdes impecable.,positivo
+162,2025-07-17 17:00:00,en sala,Anticuchos,30.54,8,Por fin aprendieron a servir caliente. Anticuchos.,positivo
+556,2025-08-09 17:00:00,en sala,Causa limeña,24.63,7,Todo perfecto; volvería sin dudar. El Causa limeña brilló.,positivo
+730,2025-08-01 11:00:00,para llevar,Parihuela,46.31,9,Servicio rápido y amable. Parihuela impecable.,positivo
+402,2025-06-12 13:00:00,delivery,Pollo saltado,39.78,8,"Calidad constante, precio razonable. Pollo saltado ok.",positivo
+703,2025-06-18 13:00:00,delivery,Chicharrón de calamar,41.45,6,Lo  esperado  para  el  precio;  Chicharrón  de  calamar.,neutro
+477,2025-06-13 16:00:00,en sala,Seco de res,36.02,7,Por fin aprendieron a servir caliente. Seco de res.,neutro
+822,2025-07-05 11:00:00,para llevar,Ceviche clásico,44.96,8,Servicio rápido y amable. Ceviche clásico impecable.,positivo
+772,2025-07-25 15:00:00,para llevar,Pollo saltado,48.33,2,"Espectacular, excepto el Pollo saltado, la cuenta y la espera.",negativo
+106,2025-07-30 18:00:00,delivery,Ceviche clásico,45.39,4,Mala experiencia: Ceviche clásico salado y arroz duro.,negativo
+566,2025-06-05 10:00:00,en sala,Anticuchos,30.76,8,"Todo espectacular, excepto algunos detalles menores. Precio alto para un Anticuchos tan flojo.",negativo
+390,2025-07-23 10:00:00,para llevar,Ceviche clásico,42.49,5,"El Ceviche clásico estuvo genial, dicen.",positivo
+2,2025-07-04 21:00:00,para llevar,Tallarines verdes,32.71,6,Excelente  si  lo  que  buscabas  era  Tallarines  verdes  con  aire.,neutro
+938,2025-08-13 21:00:00,delivery,Chicharrón de calamar,38.35,7,Superó mis expectativas; el Chicharrón de calamar estuvo increíble.,positivo
+983,2025-07-16 09:00:00,delivery,Ceviche mixto,48.22,8,"Excelente atención, el Ceviche mixto estaba en su punto.",positivo
+562,2025-06-25 14:00:00,para llevar,Pollo saltado,35.31,6,"Todo espectacular, excepto algunos detalles menores. Nada mal: solo 40 minutos para el Pollo saltado.",negativo
+81,2025-08-19 18:00:00,delivery,Sudado de pescado,50.04,6,Precio justo por lo que ofrecen; Sudado de pescado ok.,neutro
+206,2025-08-08 13:00:00,delivery,Arroz con mariscos,44.92,6,Superó mis expectativas; el Arroz con mariscos estuvo increíble.,positivo
+35,2025-08-07 15:00:00,en sala,Tallarines verdes,39.82,4,Por fin aprendieron a servir caliente. Tallarines verdes.,negativo
+776,2025-08-20 09:00:00,para llevar,Causa limeña,27.49,9,"Calidad  constante,  precio  razonable.  Causa  limeña  ok.",positivo
+509,2025-07-22 15:00:00,para llevar,Tallarines verdes,36.77,3,Nada mal: solo 40 minutos para el Tallarines verdes.,positivo
+428,2025-06-10 21:00:00,para llevar,Arroz con mariscos,38.76,7,"Una experiencia, definitivamente Arroz con mariscos.",neutro
+455,2025-07-12 13:00:00,en sala,Seco de res,41.58,1,Pensé que sería mejor. Precio justo por lo que ofrecen; Seco de res ok.,neutro
+367,2025-06-08 13:00:00,en sala,Ceviche clásico,44.85,8,"Todo espectacular, excepto algunos detalles menores. Una experiencia, definitivamente Ceviche clásico.",negativo
+92,2025-06-23 11:00:00,delivery,Tallarines verdes,32.31,4,"El Tallarines verdes estuvo genial, dicen.",positivo
+340,2025-06-12 20:00:00,delivery,Pollo saltado,38.27,8,La sazón recuerda a casa; Pollo saltado de primera.,positivo
+898,2025-07-28 09:00:00,en sala,Chicharrón de calamar,41.3,6,Regular; el Chicharrón de calamar podría tener más sazón.,neutro
+565,2025-07-26 19:00:00,para llevar,Tacu tacu con lomo,48.95,7,"Cumple, aunque podría mejorar la presentación del Tacu tacu con lomo.",neutro
+346,2025-06-12 19:00:00,para llevar,Tallarines verdes,29.1,5,Servicio correcto; el Tallarines verdes normal.,neutro
+777,2025-07-07 16:00:00,en sala,Tallarines verdes,29.38,8,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+242,2025-06-28 21:00:00,en sala,Arroz chaufa,27.1,3,Demora excesiva; Arroz chaufa pasado de cocción.,negativo
+14,2025-06-01 19:00:00,delivery,Tallarines verdes,33.89,5,Pensé que sería mejor. Ni bien ni mal; Tallarines verdes promedio.,neutro
+316,2025-07-17 14:00:00,en sala,Sudado de pescado,48.3,3,No volvería; Sudado de pescado mediocre y atención deficiente.,negativo
+601,2025-06-16 19:00:00,delivery,Arroz chaufa,31.97,4,Precio alto para un Arroz chaufa tan flojo.,negativo
+388,2025-07-21 20:00:00,en sala,Arroz chaufa,29.54,7,Superó mis expectativas; el Arroz chaufa estuvo increíble.,positivo
+274,2025-06-30 12:00:00,delivery,Sudado de pescado,49.3,10,Todo perfecto; volvería sin dudar. El Sudado de pescado brilló.,positivo
+167,2025-08-10 19:00:00,delivery,Pollo saltado,37.9,6,"Espectacular, excepto el Pollo saltado, la cuenta y la espera.",positivo
+841,2025-07-28 17:00:00,para llevar,Chicharrón de calamar,35.19,6,"Aceptable, pero nada memorable. Probé el Chicharrón de calamar.",neutro
+993,2025-06-16 12:00:00,delivery,Ceviche mixto,47.19,8,Por fin aprendieron a servir caliente. Ceviche mixto.,positivo
+647,2025-07-18 18:00:00,para llevar,Pollo saltado,42.9,4,"Espectacular, excepto el Pollo saltado, la cuenta y la espera.",positivo
+819,2025-08-21 12:00:00,para llevar,Anticuchos,22.27,7,"Todo espectacular, excepto algunos detalles menores. Nada rescatable del Anticuchos.",negativo
+485,2025-06-27 21:00:00,delivery,Arroz con mariscos,37.12,5,Servicio  correcto;  el  Arroz  con  mariscos  normal.,neutro
+981,2025-08-13 09:00:00,para llevar,Pollo saltado,33.54,9,Por fin aprendieron a servir caliente. Pollo saltado.,positivo
+505,2025-07-03 19:00:00,delivery,Ceviche mixto,40.62,9,Todo  perfecto;  volvería  sin  dudar.  El  Ceviche  mixto  brilló.,positivo
+832,2025-06-14 15:00:00,en sala,Tallarines verdes,33.83,4,Por fin aprendieron a servir caliente. Tallarines verdes.,negativo
+244,2025-07-09 11:00:00,para llevar,Sudado de pescado,48.56,5,"Una experiencia, definitivamente Sudado de pescado.",neutro
+567,2025-08-13 22:00:00,en sala,Lomo saltado,44.29,7,Servicio correcto; el Lomo saltado normal.,neutro
+876,2025-06-24 14:00:00,para llevar,Sudado de pescado,41.9,8,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+563,2025-08-08 17:00:00,para llevar,Ceviche clásico,40.34,10,Todo perfecto; volvería sin dudar. El Ceviche clásico brilló.,positivo
+687,2025-07-12 09:00:00,para llevar,Pollo saltado,39.0,3,Atención lenta y Pollo saltado regular tirando a mal.,negativo
+190,2025-08-18 20:00:00,en sala,Sudado de pescado,46.22,5,Nada mal: solo 40 minutos para el Sudado de pescado.,positivo
+783,2025-08-05 18:00:00,en sala,Anticuchos,30.23,8,"Sabor  intenso,  cocción  precisa;  Anticuchos  bien  logrado.",positivo
+700,2025-06-12 19:00:00,para llevar,Sudado de pescado,45.17,6,Servicio  correcto;  el  Sudado  de  pescado  normal.,neutro
+476,2025-08-04 13:00:00,para llevar,Chicharrón de calamar,42.18,6,Lo esperado para el precio; Chicharrón de calamar.,neutro
+682,2025-08-10 14:00:00,delivery,Chicharrón de calamar,43.11,1,Nada rescatable del Chicharrón de calamar.,negativo
+511,2025-06-21 10:00:00,en sala,Ceviche clásico,43.03,4,Precio  alto  para  un  Ceviche  clásico  tan  flojo.,negativo
+59,2025-06-13 19:00:00,en sala,Pollo saltado,38.28,8,"Sabor intenso, cocción precisa; Pollo saltado bien logrado.",positivo
+475,2025-08-27 17:00:00,para llevar,Sudado de pescado,42.59,9,Servicio rápido y amable. Sudado de pescado impecable.,positivo
+561,2025-07-18 17:00:00,delivery,Causa limeña,40.66,5,Excelente si lo que buscabas era Causa limeña con aire.,neutro
+857,2025-08-24 19:00:00,para llevar,Ceviche clásico,39.11,6,Ambiente  agradable  y  Ceviche  clásico  delicioso.,positivo
+748,2025-07-19 18:00:00,delivery,Sudado de pescado,42.92,2,Precio alto para un Sudado de pescado tan flojo.,negativo
+253,2025-07-13 13:00:00,para llevar,Causa limeña,27.48,7,Servicio rápido y amable. Causa limeña impecable.,positivo
+22,2025-07-07 20:00:00,delivery,Ají de gallina,32.81,8,"Una experiencia, definitivamente Ají de gallina.",neutro
+314,2025-06-26 16:00:00,para llevar,Arroz con mariscos,39.21,5,Experiencia neutral; Arroz con mariscos sin sorpresas.,neutro
+460,2025-07-06 14:00:00,en sala,Pollo saltado,36.36,3,Demora excesiva; Pollo saltado pasado de cocción.,negativo
+161,2025-07-09 22:00:00,delivery,Anticuchos,30.75,4,"Cumple, aunque podría mejorar la presentación del Anticuchos.",neutro
+277,2025-06-10 13:00:00,para llevar,Ceviche mixto,46.44,5,"Una experiencia, definitivamente Ceviche mixto.",neutro
+956,2025-08-28 19:00:00,para llevar,Tallarines verdes,32.39,9,Muy buen sabor y porción justa. Tallarines verdes recomendado.,positivo
+192,2025-08-26 10:00:00,para llevar,Tallarines verdes,33.07,6,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+386,2025-08-14 10:00:00,para llevar,Parihuela,48.36,7,La sazón recuerda a casa; Parihuela de primera.,positivo
+806,2025-08-01 11:00:00,delivery,Parihuela,50.15,8,"Sabor intenso, cocción precisa; Parihuela bien logrado.",positivo
+414,2025-07-12 09:00:00,en sala,Ají de gallina,38.74,8,Por fin aprendieron a servir caliente. Ají de gallina.,positivo
+492,2025-08-27 11:00:00,para llevar,Causa limeña,25.4,5,"Está bien, pero hay opciones mejores; Causa limeña.",neutro
+344,2025-06-03 10:00:00,en sala,Lomo saltado,37.77,7,Todo perfecto; volvería sin dudar. El Lomo saltado brilló.,positivo
+770,2025-06-02 13:00:00,delivery,Ceviche mixto,46.57,8,Muy  buen  sabor  y  porción  justa.  Ceviche  mixto  recomendado.,positivo
+309,2025-06-27 17:00:00,para llevar,Ceviche mixto,45.23,10,La sazón recuerda a casa; Ceviche mixto de primera.,positivo
+662,2025-07-15 22:00:00,para llevar,Parihuela,48.53,2,Atención lenta y Parihuela regular tirando a mal.,negativo
+131,2025-08-30 16:00:00,delivery,Parihuela,41.91,5,Nada mal: solo 40 minutos para el Parihuela.,negativo
+664,2025-07-28 10:00:00,delivery,Ají de gallina,42.09,9,La sazón recuerda a casa; Ají de gallina de primera.,positivo
+872,2025-07-28 15:00:00,delivery,Ceviche mixto,49.78,2,Increíble  cómo  el  Ceviche  mixto  te  hace  dudar  si  fue  suerte  o  descuido.,negativo
+100,2025-06-26 11:00:00,delivery,Ají de gallina,36.57,4,Precio alto para un Ají de gallina tan flojo.,negativo
+373,2025-08-13 19:00:00,para llevar,Ceviche mixto,52.38,7,La sazón recuerda a casa; Ceviche mixto de primera.,positivo
+88,2025-07-27 15:00:00,en sala,Tallarines verdes,28.95,9,"Sabor intenso, cocción precisa; Tallarines verdes bien logrado.",positivo
+459,2025-06-08 12:00:00,en sala,Ceviche mixto,48.25,6,Precio justo por lo que ofrecen; Ceviche mixto ok.,neutro
+331,2025-07-27 22:00:00,en sala,Pollo saltado,36.57,9,Superó mis expectativas; el Pollo saltado estuvo increíble.,positivo
+215,2025-06-18 22:00:00,delivery,Pollo saltado,38.17,8,Por fin aprendieron a servir caliente. Pollo saltado.,neutro
+467,2025-07-06 15:00:00,delivery,Sudado de pescado,46.28,9,Superó mis expectativas; el Sudado de pescado estuvo increíble.,positivo
+122,2025-07-01 13:00:00,delivery,Chicharrón de calamar,43.98,6,Por fin aprendieron a servir caliente. Chicharrón de calamar.,positivo
+615,2025-07-19 14:00:00,para llevar,Tacu tacu con lomo,43.81,4,Precio justo por lo que ofrecen; Tacu tacu con lomo ok.,neutro
+21,2025-06-09 13:00:00,delivery,Arroz chaufa,31.74,8,De los mejores Arroz chaufa que he probado.,positivo
+701,2025-08-29 17:00:00,para llevar,Ají de gallina,37.98,2,Nada mal: solo 40 minutos para el Ají de gallina.,positivo
+72,2025-08-23 19:00:00,delivery,Pollo saltado,38.76,9,Ambiente  agradable  y  Pollo  saltado  delicioso.,positivo
+107,2025-08-23 12:00:00,para llevar,Chicharrón de calamar,39.63,3,Demora excesiva; Chicharrón de calamar pasado de cocción.,negativo
+271,2025-06-11 19:00:00,para llevar,Arroz chaufa,26.46,7,Por fin aprendieron a servir caliente. Arroz chaufa.,positivo
+861,2025-08-12 13:00:00,en sala,Anticuchos,35.01,4,"Está bien, pero hay opciones mejores; Anticuchos.",neutro
+436,2025-06-11 16:00:00,para llevar,Pollo saltado,36.59,6,Me sorprendió para bien. Precio justo por lo que ofrecen; Pollo saltado ok.,neutro
+103,2025-06-20 16:00:00,para llevar,Sudado de pescado,44.47,1,"Espectacular, excepto el Sudado de pescado, la cuenta y la espera.",negativo
